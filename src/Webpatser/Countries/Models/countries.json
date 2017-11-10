@@ -1,5 +1,5 @@
-{
-   "4":{
+{  
+   "4":{  
       "capital":"Kabul",
       "citizenship":"Afghan",
       "country-code":"004",
@@ -9,16 +9,15 @@
       "full_name":"Islamic Republic of Afghanistan",
       "iso_3166_2":"AF",
       "iso_3166_3":"AFG",
-      "name":"Afghanistan",
+      "name":"Afganistan",
       "region-code":"142",
       "sub-region-code":"034",
       "eea":false,
       "calling_code":"93",
       "currency_symbol":"\u060b",
-      "currency_decimals":"2",
       "flag":"AF.png"
    },
-   "8":{
+   "8":{  
       "capital":"Tirana",
       "citizenship":"Albanian",
       "country-code":"008",
@@ -28,16 +27,15 @@
       "full_name":"Republic of Albania",
       "iso_3166_2":"AL",
       "iso_3166_3":"ALB",
-      "name":"Albania",
+      "name":"Arnavutluk",
       "region-code":"150",
       "sub-region-code":"039",
       "eea":false,
       "calling_code":"355",
       "currency_symbol":"Lek",
-      "currency_decimals":"2",
       "flag":"AL.png"
    },
-   "10":{
+   "10":{  
       "capital":"Antartica",
       "citizenship":"of Antartica",
       "country-code":"010",
@@ -47,16 +45,15 @@
       "full_name":"Antarctica",
       "iso_3166_2":"AQ",
       "iso_3166_3":"ATA",
-      "name":"Antarctica",
+      "name":"Antarktika",
       "region-code":"",
       "sub-region-code":"",
       "eea":false,
       "calling_code":"672",
       "currency_symbol":"",
-      "currency_decimals":"2",
       "flag":"AQ.png"
    },
-   "12":{
+   "12":{  
       "capital":"Algiers",
       "citizenship":"Algerian",
       "country-code":"012",
@@ -66,16 +63,15 @@
       "full_name":"People\u2019s Democratic Republic of Algeria",
       "iso_3166_2":"DZ",
       "iso_3166_3":"DZA",
-      "name":"Algeria",
+      "name":"Cezayir",
       "region-code":"002",
       "sub-region-code":"015",
       "eea":false,
       "calling_code":"213",
       "currency_symbol":"DZD",
-      "currency_decimals":"2",
       "flag":"DZ.png"
    },
-   "16":{
+   "16":{  
       "capital":"Pago Pago",
       "citizenship":"American Samoan",
       "country-code":"016",
@@ -85,16 +81,15 @@
       "full_name":"Territory of American",
       "iso_3166_2":"AS",
       "iso_3166_3":"ASM",
-      "name":"American Samoa",
+      "name":"Amerikan Samoas\u0131",
       "region-code":"009",
       "sub-region-code":"061",
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"$",
-      "currency_decimals":"2",
       "flag":"AS.png"
    },
-   "20":{
+   "20":{  
       "capital":"Andorra la Vella",
       "citizenship":"Andorran",
       "country-code":"020",
@@ -110,10 +105,9 @@
       "eea":false,
       "calling_code":"376",
       "currency_symbol":"\u20ac",
-      "currency_decimals":"2",
       "flag":"AD.png"
    },
-   "24":{
+   "24":{  
       "capital":"Luanda",
       "citizenship":"Angolan",
       "country-code":"024",
@@ -129,10 +123,9 @@
       "eea":false,
       "calling_code":"244",
       "currency_symbol":"Kz",
-      "currency_decimals":"2",
       "flag":"AO.png"
    },
-   "28":{
+   "28":{  
       "capital":"St John\u2019s",
       "citizenship":"of Antigua and Barbuda",
       "country-code":"028",
@@ -142,16 +135,15 @@
       "full_name":"Antigua and Barbuda",
       "iso_3166_2":"AG",
       "iso_3166_3":"ATG",
-      "name":"Antigua and Barbuda",
+      "name":"Antigua ve Barbuda",
       "region-code":"019",
       "sub-region-code":"029",
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"$",
-      "currency_decimals":"2",
       "flag":"AG.png"
    },
-   "31":{
+   "31":{  
       "capital":"Baku",
       "citizenship":"Azerbaijani",
       "country-code":"031",
@@ -161,16 +153,15 @@
       "full_name":"Republic of Azerbaijan",
       "iso_3166_2":"AZ",
       "iso_3166_3":"AZE",
-      "name":"Azerbaijan",
+      "name":"Azerbaycan",
       "region-code":"142",
       "sub-region-code":"145",
       "eea":false,
       "calling_code":"994",
       "currency_symbol":"\u043c\u0430\u043d",
-      "currency_decimals":"2",
       "flag":"AZ.png"
    },
-   "32":{
+   "32":{  
       "capital":"Buenos Aires",
       "citizenship":"Argentinian",
       "country-code":"032",
@@ -180,16 +171,15 @@
       "full_name":"Argentine Republic",
       "iso_3166_2":"AR",
       "iso_3166_3":"ARG",
-      "name":"Argentina",
+      "name":"Arjantin",
       "region-code":"019",
       "sub-region-code":"005",
       "eea":false,
       "calling_code":"54",
       "currency_symbol":"$",
-      "currency_decimals":"2",
       "flag":"AR.png"
    },
-   "36":{
+   "36":{  
       "capital":"Canberra",
       "citizenship":"Australian",
       "country-code":"036",
@@ -199,16 +189,15 @@
       "full_name":"Commonwealth of Australia",
       "iso_3166_2":"AU",
       "iso_3166_3":"AUS",
-      "name":"Australia",
+      "name":"Avustralya",
       "region-code":"009",
       "sub-region-code":"053",
       "eea":false,
       "calling_code":"61",
       "currency_symbol":"$",
-      "currency_decimals":"2",
       "flag":"AU.png"
    },
-   "40":{
+   "40":{  
       "capital":"Vienna",
       "citizenship":"Austrian",
       "country-code":"040",
@@ -218,16 +207,15 @@
       "full_name":"Republic of Austria",
       "iso_3166_2":"AT",
       "iso_3166_3":"AUT",
-      "name":"Austria",
+      "name":"Avusturya",
       "region-code":"150",
       "sub-region-code":"155",
       "eea":true,
       "calling_code":"43",
       "currency_symbol":"\u20ac",
-      "currency_decimals":"2",
       "flag":"AT.png"
    },
-   "44":{
+   "44":{  
       "capital":"Nassau",
       "citizenship":"Bahamian",
       "country-code":"044",
@@ -237,16 +225,15 @@
       "full_name":"Commonwealth of the Bahamas",
       "iso_3166_2":"BS",
       "iso_3166_3":"BHS",
-      "name":"Bahamas",
+      "name":"Bahamalar",
       "region-code":"019",
       "sub-region-code":"029",
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"$",
-      "currency_decimals":"2",
       "flag":"BS.png"
    },
-   "48":{
+   "48":{  
       "capital":"Manama",
       "citizenship":"Bahraini",
       "country-code":"048",
@@ -256,16 +243,15 @@
       "full_name":"Kingdom of Bahrain",
       "iso_3166_2":"BH",
       "iso_3166_3":"BHR",
-      "name":"Bahrain",
+      "name":"Bahreyn",
       "region-code":"142",
       "sub-region-code":"145",
       "eea":false,
       "calling_code":"973",
       "currency_symbol":"BHD",
-      "currency_decimals":"3",
       "flag":"BH.png"
    },
-   "50":{
+   "50":{  
       "capital":"Dhaka",
       "citizenship":"Bangladeshi",
       "country-code":"050",
@@ -275,16 +261,15 @@
       "full_name":"People\u2019s Republic of Bangladesh",
       "iso_3166_2":"BD",
       "iso_3166_3":"BGD",
-      "name":"Bangladesh",
+      "name":"Banglade\u015f",
       "region-code":"142",
       "sub-region-code":"034",
       "eea":false,
       "calling_code":"880",
       "currency_symbol":"BDT",
-      "currency_decimals":"2",
       "flag":"BD.png"
    },
-   "51":{
+   "51":{  
       "capital":"Yerevan",
       "citizenship":"Armenian",
       "country-code":"051",
@@ -294,16 +279,15 @@
       "full_name":"Republic of Armenia",
       "iso_3166_2":"AM",
       "iso_3166_3":"ARM",
-      "name":"Armenia",
+      "name":"Ermenistan",
       "region-code":"142",
       "sub-region-code":"145",
       "eea":false,
       "calling_code":"374",
       "currency_symbol":"AMD",
-      "currency_decimals":"2",
       "flag":"AM.png"
    },
-   "52":{
+   "52":{  
       "capital":"Bridgetown",
       "citizenship":"Barbadian",
       "country-code":"052",
@@ -319,10 +303,9 @@
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"$",
-      "currency_decimals":"2",
       "flag":"BB.png"
    },
-   "56":{
+   "56":{  
       "capital":"Brussels",
       "citizenship":"Belgian",
       "country-code":"056",
@@ -332,16 +315,15 @@
       "full_name":"Kingdom of Belgium",
       "iso_3166_2":"BE",
       "iso_3166_3":"BEL",
-      "name":"Belgium",
+      "name":"Bel\u00e7ika",
       "region-code":"150",
       "sub-region-code":"155",
       "eea":true,
       "calling_code":"32",
       "currency_symbol":"\u20ac",
-      "currency_decimals":"2",
       "flag":"BE.png"
    },
-   "60":{
+   "60":{  
       "capital":"Hamilton",
       "citizenship":"Bermudian",
       "country-code":"060",
@@ -357,10 +339,9 @@
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"$",
-      "currency_decimals":"2",
       "flag":"BM.png"
    },
-   "64":{
+   "64":{  
       "capital":"Thimphu",
       "citizenship":"Bhutanese",
       "country-code":"064",
@@ -376,10 +357,9 @@
       "eea":false,
       "calling_code":"975",
       "currency_symbol":"BTN",
-      "currency_decimals":"2",
       "flag":"BT.png"
    },
-   "68":{
+   "68":{  
       "capital":"Sucre (BO1)",
       "citizenship":"Bolivian",
       "country-code":"068",
@@ -389,16 +369,15 @@
       "full_name":"Plurinational State of Bolivia",
       "iso_3166_2":"BO",
       "iso_3166_3":"BOL",
-      "name":"Bolivia, Plurinational State of",
+      "name":"Bu Bolivya \u00c7okuluslu Devlet",
       "region-code":"019",
       "sub-region-code":"005",
       "eea":false,
       "calling_code":"591",
       "currency_symbol":"$b",
-      "currency_decimals":"2",
       "flag":"BO.png"
    },
-   "70":{
+   "70":{  
       "capital":"Sarajevo",
       "citizenship":"of Bosnia and Herzegovina",
       "country-code":"070",
@@ -408,16 +387,15 @@
       "full_name":"Bosnia and Herzegovina",
       "iso_3166_2":"BA",
       "iso_3166_3":"BIH",
-      "name":"Bosnia and Herzegovina",
+      "name":"Bosna-Hersek",
       "region-code":"150",
       "sub-region-code":"039",
       "eea":false,
       "calling_code":"387",
       "currency_symbol":"KM",
-      "currency_decimals":"2",
       "flag":"BA.png"
    },
-   "72":{
+   "72":{  
       "capital":"Gaborone",
       "citizenship":"Botswanan",
       "country-code":"072",
@@ -433,10 +411,9 @@
       "eea":false,
       "calling_code":"267",
       "currency_symbol":"P",
-      "currency_decimals":"2",
       "flag":"BW.png"
    },
-   "74":{
+   "74":{  
       "capital":"Bouvet island",
       "citizenship":"of Bouvet island",
       "country-code":"074",
@@ -446,16 +423,15 @@
       "full_name":"Bouvet Island",
       "iso_3166_2":"BV",
       "iso_3166_3":"BVT",
-      "name":"Bouvet Island",
+      "name":"Bouvet Adas\u0131",
       "region-code":"",
       "sub-region-code":"",
       "eea":false,
       "calling_code":"47",
       "currency_symbol":"kr",
-      "currency_decimals":"2",
       "flag":"BV.png"
    },
-   "76":{
+   "76":{  
       "capital":"Brasilia",
       "citizenship":"Brazilian",
       "country-code":"076",
@@ -465,16 +441,15 @@
       "full_name":"Federative Republic of Brazil",
       "iso_3166_2":"BR",
       "iso_3166_3":"BRA",
-      "name":"Brazil",
+      "name":"Brezilya",
       "region-code":"019",
       "sub-region-code":"005",
       "eea":false,
       "calling_code":"55",
       "currency_symbol":"R$",
-      "currency_decimals":"2",
       "flag":"BR.png"
    },
-   "84":{
+   "84":{  
       "capital":"Belmopan",
       "citizenship":"Belizean",
       "country-code":"084",
@@ -490,10 +465,9 @@
       "eea":false,
       "calling_code":"501",
       "currency_symbol":"BZ$",
-      "currency_decimals":"2",
       "flag":"BZ.png"
    },
-   "86":{
+   "86":{  
       "capital":"Diego Garcia",
       "citizenship":"Changosian",
       "country-code":"086",
@@ -503,16 +477,15 @@
       "full_name":"British Indian Ocean Territory",
       "iso_3166_2":"IO",
       "iso_3166_3":"IOT",
-      "name":"British Indian Ocean Territory",
+      "name":"\u0130ngiliz Hint Okyanusu B\u00f6lgesi",
       "region-code":"",
       "sub-region-code":"",
       "eea":false,
       "calling_code":"246",
       "currency_symbol":"$",
-      "currency_decimals":"2",
       "flag":"IO.png"
    },
-   "90":{
+   "90":{  
       "capital":"Honiara",
       "citizenship":"Solomon Islander",
       "country-code":"090",
@@ -522,16 +495,15 @@
       "full_name":"Solomon Islands",
       "iso_3166_2":"SB",
       "iso_3166_3":"SLB",
-      "name":"Solomon Islands",
+      "name":"Solomon Adalar\u0131",
       "region-code":"009",
       "sub-region-code":"054",
       "eea":false,
       "calling_code":"677",
       "currency_symbol":"$",
-      "currency_decimals":"2",
       "flag":"SB.png"
    },
-   "92":{
+   "92":{  
       "capital":"Road Town",
       "citizenship":"British Virgin Islander;",
       "country-code":"092",
@@ -541,16 +513,15 @@
       "full_name":"British Virgin Islands",
       "iso_3166_2":"VG",
       "iso_3166_3":"VGB",
-      "name":"Virgin Islands, British",
+      "name":"Virgin Adalar\u0131, \u0130ngiliz",
       "region-code":"019",
       "sub-region-code":"029",
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"$",
-      "currency_decimals":"2",
       "flag":"VG.png"
    },
-   "96":{
+   "96":{  
       "capital":"Bandar Seri Begawan",
       "citizenship":"Bruneian",
       "country-code":"096",
@@ -560,16 +531,15 @@
       "full_name":"Brunei Darussalam",
       "iso_3166_2":"BN",
       "iso_3166_3":"BRN",
-      "name":"Brunei Darussalam",
+      "name":"Brunei Sultanl\u0131\u011f\u0131",
       "region-code":"142",
       "sub-region-code":"035",
       "eea":false,
       "calling_code":"673",
       "currency_symbol":"$",
-      "currency_decimals":"2",
       "flag":"BN.png"
    },
-   "100":{
+   "100":{  
       "capital":"Sofia",
       "citizenship":"Bulgarian",
       "country-code":"100",
@@ -579,16 +549,15 @@
       "full_name":"Republic of Bulgaria",
       "iso_3166_2":"BG",
       "iso_3166_3":"BGR",
-      "name":"Bulgaria",
+      "name":"Bulgaristan",
       "region-code":"150",
       "sub-region-code":"151",
       "eea":true,
       "calling_code":"359",
       "currency_symbol":"\u043b\u0432",
-      "currency_decimals":"2",
       "flag":"BG.png"
    },
-   "104":{
+   "104":{  
       "capital":"Yangon",
       "citizenship":"Burmese",
       "country-code":"104",
@@ -604,10 +573,9 @@
       "eea":false,
       "calling_code":"95",
       "currency_symbol":"K",
-      "currency_decimals":"2",
       "flag":"MM.png"
    },
-   "108":{
+   "108":{  
       "capital":"Bujumbura",
       "citizenship":"Burundian",
       "country-code":"108",
@@ -623,10 +591,9 @@
       "eea":false,
       "calling_code":"257",
       "currency_symbol":"BIF",
-      "currency_decimals":"0",
       "flag":"BI.png"
    },
-   "112":{
+   "112":{  
       "capital":"Minsk",
       "citizenship":"Belarusian",
       "country-code":"112",
@@ -642,10 +609,9 @@
       "eea":false,
       "calling_code":"375",
       "currency_symbol":"p.",
-      "currency_decimals":"2",
       "flag":"BY.png"
    },
-   "116":{
+   "116":{  
       "capital":"Phnom Penh",
       "citizenship":"Cambodian",
       "country-code":"116",
@@ -655,16 +621,15 @@
       "full_name":"Kingdom of Cambodia",
       "iso_3166_2":"KH",
       "iso_3166_3":"KHM",
-      "name":"Cambodia",
+      "name":"Kambo\u00e7ya",
       "region-code":"142",
       "sub-region-code":"035",
       "eea":false,
       "calling_code":"855",
       "currency_symbol":"\u17db",
-      "currency_decimals":"2",
       "flag":"KH.png"
    },
-   "120":{
+   "120":{  
       "capital":"Yaound\u00e9",
       "citizenship":"Cameroonian",
       "country-code":"120",
@@ -674,16 +639,15 @@
       "full_name":"Republic of Cameroon",
       "iso_3166_2":"CM",
       "iso_3166_3":"CMR",
-      "name":"Cameroon",
+      "name":"Kamerun",
       "region-code":"002",
       "sub-region-code":"017",
       "eea":false,
       "calling_code":"237",
       "currency_symbol":"FCF",
-      "currency_decimals":"0",
       "flag":"CM.png"
    },
-   "124":{
+   "124":{  
       "capital":"Ottawa",
       "citizenship":"Canadian",
       "country-code":"124",
@@ -693,16 +657,15 @@
       "full_name":"Canada",
       "iso_3166_2":"CA",
       "iso_3166_3":"CAN",
-      "name":"Canada",
+      "name":"Kanada",
       "region-code":"019",
       "sub-region-code":"021",
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"$",
-      "currency_decimals":"2",
       "flag":"CA.png"
    },
-   "132":{
+   "132":{  
       "capital":"Praia",
       "citizenship":"Cape Verdean",
       "country-code":"132",
@@ -718,10 +681,9 @@
       "eea":false,
       "calling_code":"238",
       "currency_symbol":"CVE",
-      "currency_decimals":"2",
       "flag":"CV.png"
    },
-   "136":{
+   "136":{  
       "capital":"George Town",
       "citizenship":"Caymanian",
       "country-code":"136",
@@ -731,16 +693,15 @@
       "full_name":"Cayman Islands",
       "iso_3166_2":"KY",
       "iso_3166_3":"CYM",
-      "name":"Cayman Islands",
+      "name":"Cayman Adalar\u0131",
       "region-code":"019",
       "sub-region-code":"029",
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"$",
-      "currency_decimals":"2",
       "flag":"KY.png"
    },
-   "140":{
+   "140":{  
       "capital":"Bangui",
       "citizenship":"Central African",
       "country-code":"140",
@@ -750,16 +711,15 @@
       "full_name":"Central African Republic",
       "iso_3166_2":"CF",
       "iso_3166_3":"CAF",
-      "name":"Central African Republic",
+      "name":"Orta Afrika Cumhuriyeti",
       "region-code":"002",
       "sub-region-code":"017",
       "eea":false,
       "calling_code":"236",
-      "currency_symbol":"CFA",
-      "currency_decimals":"0",
+      "currency_symbol":"FCF",
       "flag":"CF.png"
    },
-   "144":{
+   "144":{  
       "capital":"Colombo",
       "citizenship":"Sri Lankan",
       "country-code":"144",
@@ -775,10 +735,9 @@
       "eea":false,
       "calling_code":"94",
       "currency_symbol":"\u20a8",
-      "currency_decimals":"2",
       "flag":"LK.png"
    },
-   "148":{
+   "148":{  
       "capital":"N\u2019Djamena",
       "citizenship":"Chadian",
       "country-code":"148",
@@ -794,10 +753,9 @@
       "eea":false,
       "calling_code":"235",
       "currency_symbol":"XAF",
-      "currency_decimals":"0",
       "flag":"TD.png"
    },
-   "152":{
+   "152":{  
       "capital":"Santiago",
       "citizenship":"Chilean",
       "country-code":"152",
@@ -807,16 +765,15 @@
       "full_name":"Republic of Chile",
       "iso_3166_2":"CL",
       "iso_3166_3":"CHL",
-      "name":"Chile",
+      "name":"\u015eili",
       "region-code":"019",
       "sub-region-code":"005",
       "eea":false,
       "calling_code":"56",
       "currency_symbol":"CLP",
-      "currency_decimals":"0",
       "flag":"CL.png"
    },
-   "156":{
+   "156":{  
       "capital":"Beijing",
       "citizenship":"Chinese",
       "country-code":"156",
@@ -826,16 +783,15 @@
       "full_name":"People\u2019s Republic of China",
       "iso_3166_2":"CN",
       "iso_3166_3":"CHN",
-      "name":"China",
+      "name":"\u00c7in",
       "region-code":"142",
       "sub-region-code":"030",
       "eea":false,
       "calling_code":"86",
       "currency_symbol":"\u00a5",
-      "currency_decimals":"2",
       "flag":"CN.png"
    },
-   "158":{
+   "158":{  
       "capital":"Taipei",
       "citizenship":"Taiwanese",
       "country-code":"158",
@@ -845,16 +801,15 @@
       "full_name":"Republic of China, Taiwan (TW1)",
       "iso_3166_2":"TW",
       "iso_3166_3":"TWN",
-      "name":"Taiwan, Province of China",
+      "name":"\u00c7in, Tayvan, \u0130l",
       "region-code":"142",
       "sub-region-code":"030",
       "eea":false,
       "calling_code":"886",
       "currency_symbol":"NT$",
-      "currency_decimals":"2",
       "flag":"TW.png"
    },
-   "162":{
+   "162":{  
       "capital":"Flying Fish Cove",
       "citizenship":"Christmas Islander",
       "country-code":"162",
@@ -864,16 +819,15 @@
       "full_name":"Christmas Island Territory",
       "iso_3166_2":"CX",
       "iso_3166_3":"CXR",
-      "name":"Christmas Island",
+      "name":"Christmas Adas\u0131",
       "region-code":"",
       "sub-region-code":"",
       "eea":false,
       "calling_code":"61",
       "currency_symbol":"$",
-      "currency_decimals":"2",
       "flag":"CX.png"
    },
-   "166":{
+   "166":{  
       "capital":"Bantam",
       "citizenship":"Cocos Islander",
       "country-code":"166",
@@ -883,16 +837,15 @@
       "full_name":"Territory of Cocos (Keeling) Islands",
       "iso_3166_2":"CC",
       "iso_3166_3":"CCK",
-      "name":"Cocos (Keeling) Islands",
+      "name":"Cocos (Keeling) Adalar\u0131",
       "region-code":"",
       "sub-region-code":"",
       "eea":false,
       "calling_code":"61",
       "currency_symbol":"$",
-      "currency_decimals":"2",
       "flag":"CC.png"
    },
-   "170":{
+   "170":{  
       "capital":"Santa Fe de Bogot\u00e1",
       "citizenship":"Colombian",
       "country-code":"170",
@@ -902,16 +855,15 @@
       "full_name":"Republic of Colombia",
       "iso_3166_2":"CO",
       "iso_3166_3":"COL",
-      "name":"Colombia",
+      "name":"Kolombiya",
       "region-code":"019",
       "sub-region-code":"005",
       "eea":false,
       "calling_code":"57",
       "currency_symbol":"$",
-      "currency_decimals":"2",
       "flag":"CO.png"
    },
-   "174":{
+   "174":{  
       "capital":"Moroni",
       "citizenship":"Comorian",
       "country-code":"174",
@@ -927,10 +879,9 @@
       "eea":false,
       "calling_code":"269",
       "currency_symbol":"KMF",
-      "currency_decimals":"0",
       "flag":"KM.png"
    },
-   "175":{
+   "175":{  
       "capital":"Mamoudzou",
       "citizenship":"Mahorais",
       "country-code":"175",
@@ -946,10 +897,9 @@
       "eea":false,
       "calling_code":"262",
       "currency_symbol":"\u20ac",
-      "currency_decimals":"2",
       "flag":"YT.png"
    },
-   "178":{
+   "178":{  
       "capital":"Brazzaville",
       "citizenship":"Congolese",
       "country-code":"178",
@@ -959,16 +909,15 @@
       "full_name":"Republic of the Congo",
       "iso_3166_2":"CG",
       "iso_3166_3":"COG",
-      "name":"Congo",
+      "name":"Kongo",
       "region-code":"002",
       "sub-region-code":"017",
       "eea":false,
       "calling_code":"242",
       "currency_symbol":"FCF",
-      "currency_decimals":"0",
       "flag":"CG.png"
    },
-   "180":{
+   "180":{  
       "capital":"Kinshasa",
       "citizenship":"Congolese",
       "country-code":"180",
@@ -978,16 +927,15 @@
       "full_name":"Democratic Republic of the Congo",
       "iso_3166_2":"CD",
       "iso_3166_3":"COD",
-      "name":"Congo, the Democratic Republic of the",
+      "name":"Kongo Demokratik Cumhuriyeti",
       "region-code":"002",
       "sub-region-code":"017",
       "eea":false,
       "calling_code":"243",
       "currency_symbol":"CDF",
-      "currency_decimals":"2",
       "flag":"CD.png"
    },
-   "184":{
+   "184":{  
       "capital":"Avarua",
       "citizenship":"Cook Islander",
       "country-code":"184",
@@ -997,16 +945,15 @@
       "full_name":"Cook Islands",
       "iso_3166_2":"CK",
       "iso_3166_3":"COK",
-      "name":"Cook Islands",
+      "name":"Cook Adalar\u0131",
       "region-code":"009",
       "sub-region-code":"061",
       "eea":false,
       "calling_code":"682",
       "currency_symbol":"$",
-      "currency_decimals":"2",
       "flag":"CK.png"
    },
-   "188":{
+   "188":{  
       "capital":"San Jos\u00e9",
       "citizenship":"Costa Rican",
       "country-code":"188",
@@ -1016,16 +963,15 @@
       "full_name":"Republic of Costa Rica",
       "iso_3166_2":"CR",
       "iso_3166_3":"CRI",
-      "name":"Costa Rica",
+      "name":"Kosta Rika",
       "region-code":"019",
       "sub-region-code":"013",
       "eea":false,
       "calling_code":"506",
       "currency_symbol":"\u20a1",
-      "currency_decimals":"2",
       "flag":"CR.png"
    },
-   "191":{
+   "191":{  
       "capital":"Zagreb",
       "citizenship":"Croatian",
       "country-code":"191",
@@ -1035,16 +981,15 @@
       "full_name":"Republic of Croatia",
       "iso_3166_2":"HR",
       "iso_3166_3":"HRV",
-      "name":"Croatia",
+      "name":"H\u0131rvatistan",
       "region-code":"150",
       "sub-region-code":"039",
       "eea":true,
       "calling_code":"385",
       "currency_symbol":"kn",
-      "currency_decimals":"2",
       "flag":"HR.png"
    },
-   "192":{
+   "192":{  
       "capital":"Havana",
       "citizenship":"Cuban",
       "country-code":"192",
@@ -1054,16 +999,15 @@
       "full_name":"Republic of Cuba",
       "iso_3166_2":"CU",
       "iso_3166_3":"CUB",
-      "name":"Cuba",
+      "name":"K\u00fcba",
       "region-code":"019",
       "sub-region-code":"029",
       "eea":false,
       "calling_code":"53",
       "currency_symbol":"\u20b1",
-      "currency_decimals":"2",
       "flag":"CU.png"
    },
-   "196":{
+   "196":{  
       "capital":"Nicosia",
       "citizenship":"Cypriot",
       "country-code":"196",
@@ -1073,16 +1017,15 @@
       "full_name":"Republic of Cyprus",
       "iso_3166_2":"CY",
       "iso_3166_3":"CYP",
-      "name":"Cyprus",
+      "name":"K\u0131br\u0131s",
       "region-code":"142",
       "sub-region-code":"145",
       "eea":true,
       "calling_code":"357",
       "currency_symbol":"CYP",
-      "currency_decimals":"2",
       "flag":"CY.png"
    },
-   "203":{
+   "203":{  
       "capital":"Prague",
       "citizenship":"Czech",
       "country-code":"203",
@@ -1092,16 +1035,15 @@
       "full_name":"Czech Republic",
       "iso_3166_2":"CZ",
       "iso_3166_3":"CZE",
-      "name":"Czech Republic",
+      "name":"\u00c7ek Cumhuriyeti",
       "region-code":"150",
       "sub-region-code":"151",
       "eea":true,
       "calling_code":"420",
       "currency_symbol":"K\u010d",
-      "currency_decimals":"2",
       "flag":"CZ.png"
    },
-   "204":{
+   "204":{  
       "capital":"Porto Novo (BJ1)",
       "citizenship":"Beninese",
       "country-code":"204",
@@ -1117,10 +1059,9 @@
       "eea":false,
       "calling_code":"229",
       "currency_symbol":"XOF",
-      "currency_decimals":"0",
       "flag":"BJ.png"
    },
-   "208":{
+   "208":{  
       "capital":"Copenhagen",
       "citizenship":"Danish",
       "country-code":"208",
@@ -1130,16 +1071,15 @@
       "full_name":"Kingdom of Denmark",
       "iso_3166_2":"DK",
       "iso_3166_3":"DNK",
-      "name":"Denmark",
+      "name":"Danimarka",
       "region-code":"150",
       "sub-region-code":"154",
       "eea":true,
       "calling_code":"45",
       "currency_symbol":"kr",
-      "currency_decimals":"2",
       "flag":"DK.png"
    },
-   "212":{
+   "212":{  
       "capital":"Roseau",
       "citizenship":"Dominican",
       "country-code":"212",
@@ -1149,16 +1089,15 @@
       "full_name":"Commonwealth of Dominica",
       "iso_3166_2":"DM",
       "iso_3166_3":"DMA",
-      "name":"Dominica",
+      "name":"Dominika",
       "region-code":"019",
       "sub-region-code":"029",
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"$",
-      "currency_decimals":"2",
       "flag":"DM.png"
    },
-   "214":{
+   "214":{  
       "capital":"Santo Domingo",
       "citizenship":"Dominican",
       "country-code":"214",
@@ -1168,16 +1107,15 @@
       "full_name":"Dominican Republic",
       "iso_3166_2":"DO",
       "iso_3166_3":"DOM",
-      "name":"Dominican Republic",
+      "name":"Dominik Cumhuriyeti",
       "region-code":"019",
       "sub-region-code":"029",
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"RD$",
-      "currency_decimals":"2",
       "flag":"DO.png"
    },
-   "218":{
+   "218":{  
       "capital":"Quito",
       "citizenship":"Ecuadorian",
       "country-code":"218",
@@ -1187,16 +1125,15 @@
       "full_name":"Republic of Ecuador",
       "iso_3166_2":"EC",
       "iso_3166_3":"ECU",
-      "name":"Ecuador",
+      "name":"Ekvador",
       "region-code":"019",
       "sub-region-code":"005",
       "eea":false,
       "calling_code":"593",
       "currency_symbol":"$",
-      "currency_decimals":"2",
       "flag":"EC.png"
    },
-   "222":{
+   "222":{  
       "capital":"San Salvador",
       "citizenship":"Salvadoran",
       "country-code":"222",
@@ -1212,10 +1149,9 @@
       "eea":false,
       "calling_code":"503",
       "currency_symbol":"$",
-      "currency_decimals":"2",
       "flag":"SV.png"
    },
-   "226":{
+   "226":{  
       "capital":"Malabo",
       "citizenship":"Equatorial Guinean",
       "country-code":"226",
@@ -1225,16 +1161,15 @@
       "full_name":"Republic of Equatorial Guinea",
       "iso_3166_2":"GQ",
       "iso_3166_3":"GNQ",
-      "name":"Equatorial Guinea",
+      "name":"Ekvator Ginesi",
       "region-code":"002",
       "sub-region-code":"017",
       "eea":false,
       "calling_code":"240",
       "currency_symbol":"FCF",
-      "currency_decimals":"2",
       "flag":"GQ.png"
    },
-   "231":{
+   "231":{  
       "capital":"Addis Ababa",
       "citizenship":"Ethiopian",
       "country-code":"231",
@@ -1244,16 +1179,15 @@
       "full_name":"Federal Democratic Republic of Ethiopia",
       "iso_3166_2":"ET",
       "iso_3166_3":"ETH",
-      "name":"Ethiopia",
+      "name":"Etiyopya",
       "region-code":"002",
       "sub-region-code":"014",
       "eea":false,
       "calling_code":"251",
       "currency_symbol":"ETB",
-      "currency_decimals":"2",
       "flag":"ET.png"
    },
-   "232":{
+   "232":{  
       "capital":"Asmara",
       "citizenship":"Eritrean",
       "country-code":"232",
@@ -1263,16 +1197,15 @@
       "full_name":"State of Eritrea",
       "iso_3166_2":"ER",
       "iso_3166_3":"ERI",
-      "name":"Eritrea",
+      "name":"Eritre",
       "region-code":"002",
       "sub-region-code":"014",
       "eea":false,
       "calling_code":"291",
       "currency_symbol":"Nfk",
-      "currency_decimals":"2",
       "flag":"ER.png"
    },
-   "233":{
+   "233":{  
       "capital":"Tallinn",
       "citizenship":"Estonian",
       "country-code":"233",
@@ -1282,16 +1215,15 @@
       "full_name":"Republic of Estonia",
       "iso_3166_2":"EE",
       "iso_3166_3":"EST",
-      "name":"Estonia",
+      "name":"Estonya",
       "region-code":"150",
       "sub-region-code":"154",
       "eea":true,
       "calling_code":"372",
       "currency_symbol":"kr",
-      "currency_decimals":"2",
       "flag":"EE.png"
    },
-   "234":{
+   "234":{  
       "capital":"T\u00f3rshavn",
       "citizenship":"Faeroese",
       "country-code":"234",
@@ -1301,16 +1233,15 @@
       "full_name":"Faeroe Islands",
       "iso_3166_2":"FO",
       "iso_3166_3":"FRO",
-      "name":"Faroe Islands",
+      "name":"Faroe Adalar\u0131",
       "region-code":"150",
       "sub-region-code":"154",
       "eea":false,
       "calling_code":"298",
       "currency_symbol":"kr",
-      "currency_decimals":"2",
       "flag":"FO.png"
    },
-   "238":{
+   "238":{  
       "capital":"Stanley",
       "citizenship":"Falkland Islander",
       "country-code":"238",
@@ -1320,16 +1251,15 @@
       "full_name":"Falkland Islands",
       "iso_3166_2":"FK",
       "iso_3166_3":"FLK",
-      "name":"Falkland Islands (Malvinas)",
+      "name":"Falkland Adalar\u0131",
       "region-code":"019",
       "sub-region-code":"005",
       "eea":false,
       "calling_code":"500",
       "currency_symbol":"\u00a3",
-      "currency_decimals":"2",
       "flag":"FK.png"
    },
-   "239":{
+   "239":{  
       "capital":"King Edward Point (Grytviken)",
       "citizenship":"of South Georgia and the South Sandwich Islands",
       "country-code":"239",
@@ -1339,16 +1269,15 @@
       "full_name":"South Georgia and the South Sandwich Islands",
       "iso_3166_2":"GS",
       "iso_3166_3":"SGS",
-      "name":"South Georgia and the South Sandwich Islands",
+      "name":"G\u00fcney Georgia ve G\u00fcney Sandwich Adalar\u0131",
       "region-code":"",
       "sub-region-code":"",
       "eea":false,
       "calling_code":"44",
       "currency_symbol":"\u00a3",
-      "currency_decimals":"2",
       "flag":"GS.png"
    },
-   "242":{
+   "242":{  
       "capital":"Suva",
       "citizenship":"Fijian",
       "country-code":"242",
@@ -1364,10 +1293,9 @@
       "eea":false,
       "calling_code":"679",
       "currency_symbol":"$",
-      "currency_decimals":"2",
       "flag":"FJ.png"
    },
-   "246":{
+   "246":{  
       "capital":"Helsinki",
       "citizenship":"Finnish",
       "country-code":"246",
@@ -1377,16 +1305,15 @@
       "full_name":"Republic of Finland",
       "iso_3166_2":"FI",
       "iso_3166_3":"FIN",
-      "name":"Finland",
+      "name":"Finlandiya",
       "region-code":"150",
       "sub-region-code":"154",
       "eea":true,
       "calling_code":"358",
       "currency_symbol":"\u20ac",
-      "currency_decimals":"2",
       "flag":"FI.png"
    },
-   "248":{
+   "248":{  
       "capital":"Mariehamn",
       "citizenship":"\u00c5land Islander",
       "country-code":"248",
@@ -1396,13 +1323,13 @@
       "full_name":"\u00c5land Islands",
       "iso_3166_2":"AX",
       "iso_3166_3":"ALA",
-      "name":"\u00c5land Islands",
+      "name":"\u00c5land Adalar\u0131",
       "region-code":"150",
       "sub-region-code":"154",
       "eea":false,
       "calling_code":"358"
    },
-   "250":{
+   "250":{  
       "capital":"Paris",
       "citizenship":"French",
       "country-code":"250",
@@ -1412,16 +1339,15 @@
       "full_name":"French Republic",
       "iso_3166_2":"FR",
       "iso_3166_3":"FRA",
-      "name":"France",
+      "name":"Fransa",
       "region-code":"150",
       "sub-region-code":"155",
       "eea":true,
       "calling_code":"33",
       "currency_symbol":"\u20ac",
-      "currency_decimals":"2",
       "flag":"FR.png"
    },
-   "254":{
+   "254":{  
       "capital":"Cayenne",
       "citizenship":"Guianese",
       "country-code":"254",
@@ -1431,16 +1357,15 @@
       "full_name":"French Guiana",
       "iso_3166_2":"GF",
       "iso_3166_3":"GUF",
-      "name":"French Guiana",
+      "name":"Frans\u0131z Guyanas\u0131",
       "region-code":"019",
       "sub-region-code":"005",
       "eea":false,
       "calling_code":"594",
       "currency_symbol":"\u20ac",
-      "currency_decimals":"2",
       "flag":"GF.png"
    },
-   "258":{
+   "258":{  
       "capital":"Papeete",
       "citizenship":"Polynesian",
       "country-code":"258",
@@ -1450,16 +1375,15 @@
       "full_name":"French Polynesia",
       "iso_3166_2":"PF",
       "iso_3166_3":"PYF",
-      "name":"French Polynesia",
+      "name":"Frans\u0131z Polinezyas\u0131",
       "region-code":"009",
       "sub-region-code":"061",
       "eea":false,
       "calling_code":"689",
       "currency_symbol":"XPF",
-      "currency_decimals":"0",
       "flag":"PF.png"
    },
-   "260":{
+   "260":{  
       "capital":"Port-aux-Francais",
       "citizenship":"of French Southern and Antarctic Lands",
       "country-code":"260",
@@ -1469,16 +1393,15 @@
       "full_name":"French Southern and Antarctic Lands",
       "iso_3166_2":"TF",
       "iso_3166_3":"ATF",
-      "name":"French Southern Territories",
+      "name":"Frans\u0131z G\u00fcney Topraklar\u0131",
       "region-code":"",
       "sub-region-code":"",
       "eea":false,
       "calling_code":"33",
       "currency_symbol":"\u20ac",
-      "currency_decimals":"2",
       "flag":"TF.png"
    },
-   "262":{
+   "262":{  
       "capital":"Djibouti",
       "citizenship":"Djiboutian",
       "country-code":"262",
@@ -1488,16 +1411,15 @@
       "full_name":"Republic of Djibouti",
       "iso_3166_2":"DJ",
       "iso_3166_3":"DJI",
-      "name":"Djibouti",
+      "name":"Cibuti",
       "region-code":"002",
       "sub-region-code":"014",
       "eea":false,
       "calling_code":"253",
       "currency_symbol":"DJF",
-      "currency_decimals":"0",
       "flag":"DJ.png"
    },
-   "266":{
+   "266":{  
       "capital":"Libreville",
       "citizenship":"Gabonese",
       "country-code":"266",
@@ -1513,10 +1435,9 @@
       "eea":false,
       "calling_code":"241",
       "currency_symbol":"FCF",
-      "currency_decimals":"0",
       "flag":"GA.png"
    },
-   "268":{
+   "268":{  
       "capital":"Tbilisi",
       "citizenship":"Georgian",
       "country-code":"268",
@@ -1532,10 +1453,9 @@
       "eea":false,
       "calling_code":"995",
       "currency_symbol":"GEL",
-      "currency_decimals":"2",
       "flag":"GE.png"
    },
-   "270":{
+   "270":{  
       "capital":"Banjul",
       "citizenship":"Gambian",
       "country-code":"270",
@@ -1545,30 +1465,28 @@
       "full_name":"Republic of the Gambia",
       "iso_3166_2":"GM",
       "iso_3166_3":"GMB",
-      "name":"Gambia",
+      "name":"Gambiya",
       "region-code":"002",
       "sub-region-code":"011",
       "eea":false,
       "calling_code":"220",
       "currency_symbol":"D",
-      "currency_decimals":"2",
       "flag":"GM.png"
    },
-   "275":{
+   "275":{  
       "citizenship":"Palestinian",
       "country-code":"275",
       "iso_3166_2":"PS",
       "iso_3166_3":"PSE",
-      "name":"Palestinian Territory, Occupied",
+      "name":"Filistin Topraklar\u0131, \u0130\u015fgal Alt\u0131ndaki",
       "region-code":"142",
       "sub-region-code":"145",
       "eea":false,
       "calling_code":"970",
       "currency_symbol":"\u20aa",
-      "currency_decimals":"2",
       "flag":"PS.png"
    },
-   "276":{
+   "276":{  
       "capital":"Berlin",
       "citizenship":"German",
       "country-code":"276",
@@ -1578,16 +1496,15 @@
       "full_name":"Federal Republic of Germany",
       "iso_3166_2":"DE",
       "iso_3166_3":"DEU",
-      "name":"Germany",
+      "name":"Almanya",
       "region-code":"150",
       "sub-region-code":"155",
       "eea":true,
       "calling_code":"49",
       "currency_symbol":"\u20ac",
-      "currency_decimals":"2",
       "flag":"DE.png"
    },
-   "288":{
+   "288":{  
       "capital":"Accra",
       "citizenship":"Ghanaian",
       "country-code":"288",
@@ -1597,16 +1514,15 @@
       "full_name":"Republic of Ghana",
       "iso_3166_2":"GH",
       "iso_3166_3":"GHA",
-      "name":"Ghana",
+      "name":"Gana",
       "region-code":"002",
       "sub-region-code":"011",
       "eea":false,
       "calling_code":"233",
       "currency_symbol":"\u00a2",
-      "currency_decimals":"2",
       "flag":"GH.png"
    },
-   "292":{
+   "292":{  
       "capital":"Gibraltar",
       "citizenship":"Gibraltarian",
       "country-code":"292",
@@ -1616,16 +1532,15 @@
       "full_name":"Gibraltar",
       "iso_3166_2":"GI",
       "iso_3166_3":"GIB",
-      "name":"Gibraltar",
+      "name":"Cebelitar\u0131k",
       "region-code":"150",
       "sub-region-code":"039",
       "eea":false,
       "calling_code":"350",
       "currency_symbol":"\u00a3",
-      "currency_decimals":"2",
       "flag":"GI.png"
    },
-   "296":{
+   "296":{  
       "capital":"Tarawa",
       "citizenship":"Kiribatian",
       "country-code":"296",
@@ -1641,10 +1556,9 @@
       "eea":false,
       "calling_code":"686",
       "currency_symbol":"$",
-      "currency_decimals":"2",
       "flag":"KI.png"
    },
-   "300":{
+   "300":{  
       "capital":"Athens",
       "citizenship":"Greek",
       "country-code":"300",
@@ -1654,16 +1568,15 @@
       "full_name":"Hellenic Republic",
       "iso_3166_2":"GR",
       "iso_3166_3":"GRC",
-      "name":"Greece",
+      "name":"Yunanistan",
       "region-code":"150",
       "sub-region-code":"039",
       "eea":true,
       "calling_code":"30",
       "currency_symbol":"\u20ac",
-      "currency_decimals":"2",
       "flag":"GR.png"
    },
-   "304":{
+   "304":{  
       "capital":"Nuuk",
       "citizenship":"Greenlander",
       "country-code":"304",
@@ -1673,16 +1586,15 @@
       "full_name":"Greenland",
       "iso_3166_2":"GL",
       "iso_3166_3":"GRL",
-      "name":"Greenland",
+      "name":"Gr\u00f6nland",
       "region-code":"019",
       "sub-region-code":"021",
       "eea":false,
       "calling_code":"299",
       "currency_symbol":"kr",
-      "currency_decimals":"2",
       "flag":"GL.png"
    },
-   "308":{
+   "308":{  
       "capital":"St George\u2019s",
       "citizenship":"Grenadian",
       "country-code":"308",
@@ -1698,15 +1610,14 @@
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"$",
-      "currency_decimals":"2",
       "flag":"GD.png"
    },
-   "312":{
+   "312":{  
       "capital":"Basse Terre",
       "citizenship":"Guadeloupean",
       "country-code":"312",
       "currency":"euro",
-      "currency_code":"EUR",
+      "currency_code":"EUR ",
       "currency_sub_unit":"cent",
       "full_name":"Guadeloupe",
       "iso_3166_2":"GP",
@@ -1717,10 +1628,9 @@
       "eea":false,
       "calling_code":"590",
       "currency_symbol":"\u20ac",
-      "currency_decimals":"2",
       "flag":"GP.png"
    },
-   "316":{
+   "316":{  
       "capital":"Aga\u00f1a (Hag\u00e5t\u00f1a)",
       "citizenship":"Guamanian",
       "country-code":"316",
@@ -1736,10 +1646,9 @@
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"$",
-      "currency_decimals":"2",
       "flag":"GU.png"
    },
-   "320":{
+   "320":{  
       "capital":"Guatemala City",
       "citizenship":"Guatemalan",
       "country-code":"320",
@@ -1755,10 +1664,9 @@
       "eea":false,
       "calling_code":"502",
       "currency_symbol":"Q",
-      "currency_decimals":"2",
       "flag":"GT.png"
    },
-   "324":{
+   "324":{  
       "capital":"Conakry",
       "citizenship":"Guinean",
       "country-code":"324",
@@ -1768,16 +1676,15 @@
       "full_name":"Republic of Guinea",
       "iso_3166_2":"GN",
       "iso_3166_3":"GIN",
-      "name":"Guinea",
+      "name":"Gine",
       "region-code":"002",
       "sub-region-code":"011",
       "eea":false,
       "calling_code":"224",
       "currency_symbol":"GNF",
-      "currency_decimals":"0",
       "flag":"GN.png"
    },
-   "328":{
+   "328":{  
       "capital":"Georgetown",
       "citizenship":"Guyanese",
       "country-code":"328",
@@ -1793,10 +1700,9 @@
       "eea":false,
       "calling_code":"592",
       "currency_symbol":"$",
-      "currency_decimals":"2",
       "flag":"GY.png"
    },
-   "332":{
+   "332":{  
       "capital":"Port-au-Prince",
       "citizenship":"Haitian",
       "country-code":"332",
@@ -1812,10 +1718,9 @@
       "eea":false,
       "calling_code":"509",
       "currency_symbol":"G",
-      "currency_decimals":"2",
       "flag":"HT.png"
    },
-   "334":{
+   "334":{  
       "capital":"Territory of Heard Island and McDonald Islands",
       "citizenship":"of Territory of Heard Island and McDonald Islands",
       "country-code":"334",
@@ -1825,16 +1730,15 @@
       "full_name":"Territory of Heard Island and McDonald Islands",
       "iso_3166_2":"HM",
       "iso_3166_3":"HMD",
-      "name":"Heard Island and McDonald Islands",
+      "name":"Heard Adas\u0131 ve McDonald Adalar\u0131",
       "region-code":"",
       "sub-region-code":"",
       "eea":false,
       "calling_code":"61",
       "currency_symbol":"$",
-      "currency_decimals":"2",
       "flag":"HM.png"
    },
-   "336":{
+   "336":{  
       "capital":"Vatican City",
       "citizenship":"of the Holy See\/of the Vatican",
       "country-code":"336",
@@ -1844,16 +1748,15 @@
       "full_name":"the Holy See\/ Vatican City State",
       "iso_3166_2":"VA",
       "iso_3166_3":"VAT",
-      "name":"Holy See (Vatican City State)",
+      "name":"(Vatikan \u015eehir Devleti)Kutsal G\u00f6rmek",
       "region-code":"150",
       "sub-region-code":"039",
       "eea":false,
       "calling_code":"39",
       "currency_symbol":"\u20ac",
-      "currency_decimals":"2",
       "flag":"VA.png"
    },
-   "340":{
+   "340":{  
       "capital":"Tegucigalpa",
       "citizenship":"Honduran",
       "country-code":"340",
@@ -1869,10 +1772,9 @@
       "eea":false,
       "calling_code":"504",
       "currency_symbol":"L",
-      "currency_decimals":"2",
       "flag":"HN.png"
    },
-   "344":{
+   "344":{  
       "capital":"(HK3)",
       "citizenship":"Hong Kong Chinese",
       "country-code":"344",
@@ -1888,10 +1790,9 @@
       "eea":false,
       "calling_code":"852",
       "currency_symbol":"$",
-      "currency_decimals":"2",
       "flag":"HK.png"
    },
-   "348":{
+   "348":{  
       "capital":"Budapest",
       "citizenship":"Hungarian",
       "country-code":"348",
@@ -1901,16 +1802,15 @@
       "full_name":"Republic of Hungary",
       "iso_3166_2":"HU",
       "iso_3166_3":"HUN",
-      "name":"Hungary",
+      "name":"Macaristan",
       "region-code":"150",
       "sub-region-code":"151",
       "eea":true,
       "calling_code":"36",
       "currency_symbol":"Ft",
-      "currency_decimals":"2",
       "flag":"HU.png"
    },
-   "352":{
+   "352":{  
       "capital":"Reykjavik",
       "citizenship":"Icelander",
       "country-code":"352",
@@ -1920,16 +1820,15 @@
       "full_name":"Republic of Iceland",
       "iso_3166_2":"IS",
       "iso_3166_3":"ISL",
-      "name":"Iceland",
+      "name":"\u0130zlanda",
       "region-code":"150",
       "sub-region-code":"154",
-      "eea":false,
+      "eea":true,
       "calling_code":"354",
       "currency_symbol":"kr",
-      "currency_decimals":"0",
       "flag":"IS.png"
    },
-   "356":{
+   "356":{  
       "capital":"New Delhi",
       "citizenship":"Indian",
       "country-code":"356",
@@ -1939,16 +1838,15 @@
       "full_name":"Republic of India",
       "iso_3166_2":"IN",
       "iso_3166_3":"IND",
-      "name":"India",
+      "name":"Hindistan",
       "region-code":"142",
       "sub-region-code":"034",
       "eea":false,
       "calling_code":"91",
       "currency_symbol":"\u20b9",
-      "currency_decimals":"2",
       "flag":"IN.png"
    },
-   "360":{
+   "360":{  
       "capital":"Jakarta",
       "citizenship":"Indonesian",
       "country-code":"360",
@@ -1958,16 +1856,15 @@
       "full_name":"Republic of Indonesia",
       "iso_3166_2":"ID",
       "iso_3166_3":"IDN",
-      "name":"Indonesia",
+      "name":"Endonezya",
       "region-code":"142",
       "sub-region-code":"035",
       "eea":false,
       "calling_code":"62",
       "currency_symbol":"Rp",
-      "currency_decimals":"2",
       "flag":"ID.png"
    },
-   "364":{
+   "364":{  
       "capital":"Tehran",
       "citizenship":"Iranian",
       "country-code":"364",
@@ -1977,16 +1874,15 @@
       "full_name":"Islamic Republic of Iran",
       "iso_3166_2":"IR",
       "iso_3166_3":"IRN",
-      "name":"Iran, Islamic Republic of",
+      "name":"\u0130ran \u0130slam Cumhuriyeti",
       "region-code":"142",
       "sub-region-code":"034",
       "eea":false,
       "calling_code":"98",
       "currency_symbol":"\ufdfc",
-      "currency_decimals":"2",
       "flag":"IR.png"
    },
-   "368":{
+   "368":{  
       "capital":"Baghdad",
       "citizenship":"Iraqi",
       "country-code":"368",
@@ -1996,16 +1892,15 @@
       "full_name":"Republic of Iraq",
       "iso_3166_2":"IQ",
       "iso_3166_3":"IRQ",
-      "name":"Iraq",
+      "name":"Irak",
       "region-code":"142",
       "sub-region-code":"145",
       "eea":false,
       "calling_code":"964",
       "currency_symbol":"IQD",
-      "currency_decimals":"3",
       "flag":"IQ.png"
    },
-   "372":{
+   "372":{  
       "capital":"Dublin",
       "citizenship":"Irish",
       "country-code":"372",
@@ -2015,16 +1910,15 @@
       "full_name":"Ireland (IE1)",
       "iso_3166_2":"IE",
       "iso_3166_3":"IRL",
-      "name":"Ireland",
+      "name":"\u0130rlanda",
       "region-code":"150",
       "sub-region-code":"154",
       "eea":true,
       "calling_code":"353",
       "currency_symbol":"\u20ac",
-      "currency_decimals":"2",
       "flag":"IE.png"
    },
-   "376":{
+   "376":{  
       "capital":"(IL1)",
       "citizenship":"Israeli",
       "country-code":"376",
@@ -2034,16 +1928,15 @@
       "full_name":"State of Israel",
       "iso_3166_2":"IL",
       "iso_3166_3":"ISR",
-      "name":"Israel",
+      "name":"\u0130srail",
       "region-code":"142",
       "sub-region-code":"145",
       "eea":false,
       "calling_code":"972",
       "currency_symbol":"\u20aa",
-      "currency_decimals":"2",
       "flag":"IL.png"
    },
-   "380":{
+   "380":{  
       "capital":"Rome",
       "citizenship":"Italian",
       "country-code":"380",
@@ -2053,16 +1946,15 @@
       "full_name":"Italian Republic",
       "iso_3166_2":"IT",
       "iso_3166_3":"ITA",
-      "name":"Italy",
+      "name":"\u0130talya",
       "region-code":"150",
       "sub-region-code":"039",
       "eea":true,
       "calling_code":"39",
       "currency_symbol":"\u20ac",
-      "currency_decimals":"2",
       "flag":"IT.png"
    },
-   "384":{
+   "384":{  
       "capital":"Yamoussoukro (CI1)",
       "citizenship":"Ivorian",
       "country-code":"384",
@@ -2072,16 +1964,15 @@
       "full_name":"Republic of C\u00f4te d\u2019Ivoire",
       "iso_3166_2":"CI",
       "iso_3166_3":"CIV",
-      "name":"C\u00f4te d'Ivoire",
+      "name":"Fildi\u015fi Sahili",
       "region-code":"002",
       "sub-region-code":"011",
       "eea":false,
       "calling_code":"225",
       "currency_symbol":"XOF",
-      "currency_decimals":"0",
       "flag":"CI.png"
    },
-   "388":{
+   "388":{  
       "capital":"Kingston",
       "citizenship":"Jamaican",
       "country-code":"388",
@@ -2091,16 +1982,15 @@
       "full_name":"Jamaica",
       "iso_3166_2":"JM",
       "iso_3166_3":"JAM",
-      "name":"Jamaica",
+      "name":"Jamaika",
       "region-code":"019",
       "sub-region-code":"029",
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"$",
-      "currency_decimals":"2",
       "flag":"JM.png"
    },
-   "392":{
+   "392":{  
       "capital":"Tokyo",
       "citizenship":"Japanese",
       "country-code":"392",
@@ -2110,16 +2000,15 @@
       "full_name":"Japan",
       "iso_3166_2":"JP",
       "iso_3166_3":"JPN",
-      "name":"Japan",
+      "name":"Japonya",
       "region-code":"142",
       "sub-region-code":"030",
       "eea":false,
       "calling_code":"81",
       "currency_symbol":"\u00a5",
-      "currency_decimals":"0",
       "flag":"JP.png"
    },
-   "398":{
+   "398":{  
       "capital":"Astana",
       "citizenship":"Kazakh",
       "country-code":"398",
@@ -2129,16 +2018,15 @@
       "full_name":"Republic of Kazakhstan",
       "iso_3166_2":"KZ",
       "iso_3166_3":"KAZ",
-      "name":"Kazakhstan",
+      "name":"Kazakistan",
       "region-code":"142",
       "sub-region-code":"143",
       "eea":false,
       "calling_code":"7",
       "currency_symbol":"\u043b\u0432",
-      "currency_decimals":"2",
       "flag":"KZ.png"
    },
-   "400":{
+   "400":{  
       "capital":"Amman",
       "citizenship":"Jordanian",
       "country-code":"400",
@@ -2154,10 +2042,9 @@
       "eea":false,
       "calling_code":"962",
       "currency_symbol":"JOD",
-      "currency_decimals":"2",
       "flag":"JO.png"
    },
-   "404":{
+   "404":{  
       "capital":"Nairobi",
       "citizenship":"Kenyan",
       "country-code":"404",
@@ -2173,10 +2060,9 @@
       "eea":false,
       "calling_code":"254",
       "currency_symbol":"KES",
-      "currency_decimals":"2",
       "flag":"KE.png"
    },
-   "408":{
+   "408":{  
       "capital":"Pyongyang",
       "citizenship":"North Korean",
       "country-code":"408",
@@ -2186,16 +2072,15 @@
       "full_name":"Democratic People\u2019s Republic of Korea",
       "iso_3166_2":"KP",
       "iso_3166_3":"PRK",
-      "name":"Korea, Democratic People's Republic of",
+      "name":"Kore Demokratik Halk Cumhuriyeti",
       "region-code":"142",
       "sub-region-code":"030",
       "eea":false,
       "calling_code":"850",
       "currency_symbol":"\u20a9",
-      "currency_decimals":"2",
       "flag":"KP.png"
    },
-   "410":{
+   "410":{  
       "capital":"Seoul",
       "citizenship":"South Korean",
       "country-code":"410",
@@ -2205,16 +2090,15 @@
       "full_name":"Republic of Korea",
       "iso_3166_2":"KR",
       "iso_3166_3":"KOR",
-      "name":"Korea, Republic of",
+      "name":"Kore Cumhuriyeti",
       "region-code":"142",
       "sub-region-code":"030",
       "eea":false,
       "calling_code":"82",
       "currency_symbol":"\u20a9",
-      "currency_decimals":"0",
       "flag":"KR.png"
    },
-   "414":{
+   "414":{  
       "capital":"Kuwait City",
       "citizenship":"Kuwaiti",
       "country-code":"414",
@@ -2224,16 +2108,15 @@
       "full_name":"State of Kuwait",
       "iso_3166_2":"KW",
       "iso_3166_3":"KWT",
-      "name":"Kuwait",
+      "name":"Kuveyt",
       "region-code":"142",
       "sub-region-code":"145",
       "eea":false,
       "calling_code":"965",
       "currency_symbol":"KWD",
-      "currency_decimals":"3",
       "flag":"KW.png"
    },
-   "417":{
+   "417":{  
       "capital":"Bishkek",
       "citizenship":"Kyrgyz",
       "country-code":"417",
@@ -2243,16 +2126,15 @@
       "full_name":"Kyrgyz Republic",
       "iso_3166_2":"KG",
       "iso_3166_3":"KGZ",
-      "name":"Kyrgyzstan",
+      "name":"K\u0131rg\u0131zistan",
       "region-code":"142",
       "sub-region-code":"143",
       "eea":false,
       "calling_code":"996",
       "currency_symbol":"\u043b\u0432",
-      "currency_decimals":"2",
       "flag":"KG.png"
    },
-   "418":{
+   "418":{  
       "capital":"Vientiane",
       "citizenship":"Lao",
       "country-code":"418",
@@ -2262,16 +2144,15 @@
       "full_name":"Lao People\u2019s Democratic Republic",
       "iso_3166_2":"LA",
       "iso_3166_3":"LAO",
-      "name":"Lao People's Democratic Republic",
+      "name":"Lao Demokratik Halk Cumhuriyeti",
       "region-code":"142",
       "sub-region-code":"035",
       "eea":false,
       "calling_code":"856",
       "currency_symbol":"\u20ad",
-      "currency_decimals":"0",
       "flag":"LA.png"
    },
-   "422":{
+   "422":{  
       "capital":"Beirut",
       "citizenship":"Lebanese",
       "country-code":"422",
@@ -2281,16 +2162,15 @@
       "full_name":"Lebanese Republic",
       "iso_3166_2":"LB",
       "iso_3166_3":"LBN",
-      "name":"Lebanon",
+      "name":"L\u00fcbnan",
       "region-code":"142",
       "sub-region-code":"145",
       "eea":false,
       "calling_code":"961",
       "currency_symbol":"\u00a3",
-      "currency_decimals":"2",
       "flag":"LB.png"
    },
-   "426":{
+   "426":{  
       "capital":"Maseru",
       "citizenship":"Basotho",
       "country-code":"426",
@@ -2306,29 +2186,27 @@
       "eea":false,
       "calling_code":"266",
       "currency_symbol":"L",
-      "currency_decimals":"2",
       "flag":"LS.png"
    },
-   "428":{
+   "428":{  
       "capital":"Riga",
       "citizenship":"Latvian",
       "country-code":"428",
-      "currency":"euro",
-      "currency_code":"EUR",
-      "currency_sub_unit":"cent",
+      "currency":"lats (pl. lati)",
+      "currency_code":"LVL",
+      "currency_sub_unit":"santims",
       "full_name":"Republic of Latvia",
       "iso_3166_2":"LV",
       "iso_3166_3":"LVA",
-      "name":"Latvia",
+      "name":"Letonya",
       "region-code":"150",
       "sub-region-code":"154",
       "eea":true,
       "calling_code":"371",
       "currency_symbol":"Ls",
-      "currency_decimals":"2",
       "flag":"LV.png"
    },
-   "430":{
+   "430":{  
       "capital":"Monrovia",
       "citizenship":"Liberian",
       "country-code":"430",
@@ -2338,16 +2216,15 @@
       "full_name":"Republic of Liberia",
       "iso_3166_2":"LR",
       "iso_3166_3":"LBR",
-      "name":"Liberia",
+      "name":"Liberya",
       "region-code":"002",
       "sub-region-code":"011",
       "eea":false,
       "calling_code":"231",
       "currency_symbol":"$",
-      "currency_decimals":"2",
       "flag":"LR.png"
    },
-   "434":{
+   "434":{  
       "capital":"Tripoli",
       "citizenship":"Libyan",
       "country-code":"434",
@@ -2363,10 +2240,9 @@
       "eea":false,
       "calling_code":"218",
       "currency_symbol":"LYD",
-      "currency_decimals":"3",
       "flag":"LY.png"
    },
-   "438":{
+   "438":{  
       "capital":"Vaduz",
       "citizenship":"Liechtensteiner",
       "country-code":"438",
@@ -2379,32 +2255,30 @@
       "name":"Liechtenstein",
       "region-code":"150",
       "sub-region-code":"155",
-      "eea":false,
+      "eea":true,
       "calling_code":"423",
       "currency_symbol":"CHF",
-      "currency_decimals":"2",
       "flag":"LI.png"
    },
-   "440":{
+   "440":{  
       "capital":"Vilnius",
       "citizenship":"Lithuanian",
       "country-code":"440",
-      "currency":"euro",
-      "currency_code":"EUR",
-      "currency_sub_unit":"cent",
+      "currency":"litas (pl. litai)",
+      "currency_code":"LTL",
+      "currency_sub_unit":"centas",
       "full_name":"Republic of Lithuania",
       "iso_3166_2":"LT",
       "iso_3166_3":"LTU",
-      "name":"Lithuania",
+      "name":"Litvanya",
       "region-code":"150",
       "sub-region-code":"154",
       "eea":true,
       "calling_code":"370",
       "currency_symbol":"Lt",
-      "currency_decimals":"2",
       "flag":"LT.png"
    },
-   "442":{
+   "442":{  
       "capital":"Luxembourg",
       "citizenship":"Luxembourger",
       "country-code":"442",
@@ -2414,16 +2288,15 @@
       "full_name":"Grand Duchy of Luxembourg",
       "iso_3166_2":"LU",
       "iso_3166_3":"LUX",
-      "name":"Luxembourg",
+      "name":"L\u00fcksemburg",
       "region-code":"150",
       "sub-region-code":"155",
       "eea":true,
       "calling_code":"352",
       "currency_symbol":"\u20ac",
-      "currency_decimals":"2",
       "flag":"LU.png"
    },
-   "446":{
+   "446":{  
       "capital":"Macao (MO3)",
       "citizenship":"Macanese",
       "country-code":"446",
@@ -2439,10 +2312,9 @@
       "eea":false,
       "calling_code":"853",
       "currency_symbol":"MOP",
-      "currency_decimals":"2",
       "flag":"MO.png"
    },
-   "450":{
+   "450":{  
       "capital":"Antananarivo",
       "citizenship":"Malagasy",
       "country-code":"450",
@@ -2452,16 +2324,15 @@
       "full_name":"Republic of Madagascar",
       "iso_3166_2":"MG",
       "iso_3166_3":"MDG",
-      "name":"Madagascar",
+      "name":"Madagaskar",
       "region-code":"002",
       "sub-region-code":"014",
       "eea":false,
       "calling_code":"261",
       "currency_symbol":"MGA",
-      "currency_decimals":"2",
       "flag":"MG.png"
    },
-   "454":{
+   "454":{  
       "capital":"Lilongwe",
       "citizenship":"Malawian",
       "country-code":"454",
@@ -2477,10 +2348,9 @@
       "eea":false,
       "calling_code":"265",
       "currency_symbol":"MK",
-      "currency_decimals":"2",
       "flag":"MW.png"
    },
-   "458":{
+   "458":{  
       "capital":"Kuala Lumpur (MY1)",
       "citizenship":"Malaysian",
       "country-code":"458",
@@ -2490,16 +2360,15 @@
       "full_name":"Malaysia",
       "iso_3166_2":"MY",
       "iso_3166_3":"MYS",
-      "name":"Malaysia",
+      "name":"Malezya",
       "region-code":"142",
       "sub-region-code":"035",
       "eea":false,
       "calling_code":"60",
       "currency_symbol":"RM",
-      "currency_decimals":"2",
       "flag":"MY.png"
    },
-   "462":{
+   "462":{  
       "capital":"Mal\u00e9",
       "citizenship":"Maldivian",
       "country-code":"462",
@@ -2509,16 +2378,15 @@
       "full_name":"Republic of Maldives",
       "iso_3166_2":"MV",
       "iso_3166_3":"MDV",
-      "name":"Maldives",
+      "name":"Maldivler",
       "region-code":"142",
       "sub-region-code":"034",
       "eea":false,
       "calling_code":"960",
       "currency_symbol":"Rf",
-      "currency_decimals":"2",
       "flag":"MV.png"
    },
-   "466":{
+   "466":{  
       "capital":"Bamako",
       "citizenship":"Malian",
       "country-code":"466",
@@ -2534,10 +2402,9 @@
       "eea":false,
       "calling_code":"223",
       "currency_symbol":"XOF",
-      "currency_decimals":"0",
       "flag":"ML.png"
    },
-   "470":{
+   "470":{  
       "capital":"Valletta",
       "citizenship":"Maltese",
       "country-code":"470",
@@ -2553,10 +2420,9 @@
       "eea":true,
       "calling_code":"356",
       "currency_symbol":"MTL",
-      "currency_decimals":"2",
       "flag":"MT.png"
    },
-   "474":{
+   "474":{  
       "capital":"Fort-de-France",
       "citizenship":"Martinican",
       "country-code":"474",
@@ -2572,10 +2438,9 @@
       "eea":false,
       "calling_code":"596",
       "currency_symbol":"\u20ac",
-      "currency_decimals":"2",
       "flag":"MQ.png"
    },
-   "478":{
+   "478":{  
       "capital":"Nouakchott",
       "citizenship":"Mauritanian",
       "country-code":"478",
@@ -2585,16 +2450,15 @@
       "full_name":"Islamic Republic of Mauritania",
       "iso_3166_2":"MR",
       "iso_3166_3":"MRT",
-      "name":"Mauritania",
+      "name":"Moritanya",
       "region-code":"002",
       "sub-region-code":"011",
       "eea":false,
       "calling_code":"222",
       "currency_symbol":"UM",
-      "currency_decimals":"2",
       "flag":"MR.png"
    },
-   "480":{
+   "480":{  
       "capital":"Port Louis",
       "citizenship":"Mauritian",
       "country-code":"480",
@@ -2610,10 +2474,9 @@
       "eea":false,
       "calling_code":"230",
       "currency_symbol":"\u20a8",
-      "currency_decimals":"2",
       "flag":"MU.png"
    },
-   "484":{
+   "484":{  
       "capital":"Mexico City",
       "citizenship":"Mexican",
       "country-code":"484",
@@ -2623,16 +2486,15 @@
       "full_name":"United Mexican States",
       "iso_3166_2":"MX",
       "iso_3166_3":"MEX",
-      "name":"Mexico",
+      "name":"Meksika",
       "region-code":"019",
       "sub-region-code":"013",
       "eea":false,
       "calling_code":"52",
       "currency_symbol":"$",
-      "currency_decimals":"2",
       "flag":"MX.png"
    },
-   "492":{
+   "492":{  
       "capital":"Monaco",
       "citizenship":"Monegasque",
       "country-code":"492",
@@ -2648,10 +2510,9 @@
       "eea":false,
       "calling_code":"377",
       "currency_symbol":"\u20ac",
-      "currency_decimals":"2",
       "flag":"MC.png"
    },
-   "496":{
+   "496":{  
       "capital":"Ulan Bator",
       "citizenship":"Mongolian",
       "country-code":"496",
@@ -2661,16 +2522,15 @@
       "full_name":"Mongolia",
       "iso_3166_2":"MN",
       "iso_3166_3":"MNG",
-      "name":"Mongolia",
+      "name":"Mo\u011folistan",
       "region-code":"142",
       "sub-region-code":"030",
       "eea":false,
       "calling_code":"976",
       "currency_symbol":"\u20ae",
-      "currency_decimals":"2",
       "flag":"MN.png"
    },
-   "498":{
+   "498":{  
       "capital":"Chisinau",
       "citizenship":"Moldovan",
       "country-code":"498",
@@ -2680,16 +2540,15 @@
       "full_name":"Republic of Moldova",
       "iso_3166_2":"MD",
       "iso_3166_3":"MDA",
-      "name":"Moldova, Republic of",
+      "name":"Moldova Cumhuriyeti",
       "region-code":"150",
       "sub-region-code":"151",
       "eea":false,
       "calling_code":"373",
       "currency_symbol":"MDL",
-      "currency_decimals":"2",
       "flag":"MD.png"
    },
-   "499":{
+   "499":{  
       "capital":"Podgorica",
       "citizenship":"Montenegrin",
       "country-code":"499",
@@ -2699,16 +2558,13 @@
       "full_name":"Montenegro",
       "iso_3166_2":"ME",
       "iso_3166_3":"MNE",
-      "name":"Montenegro",
+      "name":"Karada\u011f",
       "region-code":"150",
       "sub-region-code":"039",
       "eea":false,
-      "calling_code":"382",
-      "currency_symbol":"\u20ac",
-      "currency_decimals":"2",
-      "flag":"ME.png"
+      "calling_code":"382"
    },
-   "500":{
+   "500":{  
       "capital":"Plymouth (MS2)",
       "citizenship":"Montserratian",
       "country-code":"500",
@@ -2724,10 +2580,9 @@
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"$",
-      "currency_decimals":"2",
       "flag":"MS.png"
    },
-   "504":{
+   "504":{  
       "capital":"Rabat",
       "citizenship":"Moroccan",
       "country-code":"504",
@@ -2737,16 +2592,15 @@
       "full_name":"Kingdom of Morocco",
       "iso_3166_2":"MA",
       "iso_3166_3":"MAR",
-      "name":"Morocco",
+      "name":"Fas",
       "region-code":"002",
       "sub-region-code":"015",
       "eea":false,
       "calling_code":"212",
       "currency_symbol":"MAD",
-      "currency_decimals":"2",
       "flag":"MA.png"
    },
-   "508":{
+   "508":{  
       "capital":"Maputo",
       "citizenship":"Mozambican",
       "country-code":"508",
@@ -2756,16 +2610,15 @@
       "full_name":"Republic of Mozambique",
       "iso_3166_2":"MZ",
       "iso_3166_3":"MOZ",
-      "name":"Mozambique",
+      "name":"Mozambik",
       "region-code":"002",
       "sub-region-code":"014",
       "eea":false,
       "calling_code":"258",
       "currency_symbol":"MT",
-      "currency_decimals":"2",
       "flag":"MZ.png"
    },
-   "512":{
+   "512":{  
       "capital":"Muscat",
       "citizenship":"Omani",
       "country-code":"512",
@@ -2775,16 +2628,15 @@
       "full_name":"Sultanate of Oman",
       "iso_3166_2":"OM",
       "iso_3166_3":"OMN",
-      "name":"Oman",
+      "name":"Umman",
       "region-code":"142",
       "sub-region-code":"145",
       "eea":false,
       "calling_code":"968",
       "currency_symbol":"\ufdfc",
-      "currency_decimals":"3",
       "flag":"OM.png"
    },
-   "516":{
+   "516":{  
       "capital":"Windhoek",
       "citizenship":"Namibian",
       "country-code":"516",
@@ -2794,16 +2646,15 @@
       "full_name":"Republic of Namibia",
       "iso_3166_2":"NA",
       "iso_3166_3":"NAM",
-      "name":"Namibia",
+      "name":"Namibya",
       "region-code":"002",
       "sub-region-code":"018",
       "eea":false,
       "calling_code":"264",
       "currency_symbol":"$",
-      "currency_decimals":"2",
       "flag":"NA.png"
    },
-   "520":{
+   "520":{  
       "capital":"Yaren",
       "citizenship":"Nauruan",
       "country-code":"520",
@@ -2819,10 +2670,9 @@
       "eea":false,
       "calling_code":"674",
       "currency_symbol":"$",
-      "currency_decimals":"2",
       "flag":"NR.png"
    },
-   "524":{
+   "524":{  
       "capital":"Kathmandu",
       "citizenship":"Nepalese",
       "country-code":"524",
@@ -2838,10 +2688,9 @@
       "eea":false,
       "calling_code":"977",
       "currency_symbol":"\u20a8",
-      "currency_decimals":"2",
       "flag":"NP.png"
    },
-   "528":{
+   "528":{  
       "capital":"Amsterdam (NL2)",
       "citizenship":"Dutch",
       "country-code":"528",
@@ -2851,16 +2700,15 @@
       "full_name":"Kingdom of the Netherlands",
       "iso_3166_2":"NL",
       "iso_3166_3":"NLD",
-      "name":"Netherlands",
+      "name":"Hollanda",
       "region-code":"150",
       "sub-region-code":"155",
       "eea":true,
       "calling_code":"31",
       "currency_symbol":"\u20ac",
-      "currency_decimals":"2",
       "flag":"NL.png"
    },
-   "531":{
+   "531":{  
       "capital":"Willemstad",
       "citizenship":"Cura\u00e7aoan",
       "country-code":"531",
@@ -2876,7 +2724,7 @@
       "eea":false,
       "calling_code":"599"
    },
-   "533":{
+   "533":{  
       "capital":"Oranjestad",
       "citizenship":"Aruban",
       "country-code":"533",
@@ -2892,10 +2740,9 @@
       "eea":false,
       "calling_code":"297",
       "currency_symbol":"\u0192",
-      "currency_decimals":"2",
       "flag":"AW.png"
    },
-   "534":{
+   "534":{  
       "capital":"Philipsburg",
       "citizenship":"Sint Maartener",
       "country-code":"534",
@@ -2905,13 +2752,13 @@
       "full_name":"Sint Maarten",
       "iso_3166_2":"SX",
       "iso_3166_3":"SXM",
-      "name":"Sint Maarten (Dutch part)",
+      "name":"(Dutch part)Sint Maarten",
       "region-code":"019",
       "sub-region-code":"029",
       "eea":false,
       "calling_code":"721"
    },
-   "535":{
+   "535":{  
       "citizenship":"of Bonaire, Sint Eustatius and Saba",
       "country-code":"535",
       "currency":"US dollar",
@@ -2919,13 +2766,13 @@
       "currency_sub_unit":"cent",
       "iso_3166_2":"BQ",
       "iso_3166_3":"BES",
-      "name":"Bonaire, Sint Eustatius and Saba",
+      "name":"Bonaire, Sint Eustatius ve Saba",
       "region-code":"019",
       "sub-region-code":"029",
       "eea":false,
       "calling_code":"599"
    },
-   "540":{
+   "540":{  
       "capital":"Noum\u00e9a",
       "citizenship":"New Caledonian",
       "country-code":"540",
@@ -2935,16 +2782,15 @@
       "full_name":"New Caledonia",
       "iso_3166_2":"NC",
       "iso_3166_3":"NCL",
-      "name":"New Caledonia",
+      "name":"Yeni Kaledonya",
       "region-code":"009",
       "sub-region-code":"054",
       "eea":false,
       "calling_code":"687",
       "currency_symbol":"XPF",
-      "currency_decimals":"0",
       "flag":"NC.png"
    },
-   "548":{
+   "548":{  
       "capital":"Port Vila",
       "citizenship":"Vanuatuan",
       "country-code":"548",
@@ -2960,10 +2806,9 @@
       "eea":false,
       "calling_code":"678",
       "currency_symbol":"Vt",
-      "currency_decimals":"0",
       "flag":"VU.png"
    },
-   "554":{
+   "554":{  
       "capital":"Wellington",
       "citizenship":"New Zealander",
       "country-code":"554",
@@ -2973,16 +2818,15 @@
       "full_name":"New Zealand",
       "iso_3166_2":"NZ",
       "iso_3166_3":"NZL",
-      "name":"New Zealand",
+      "name":"Yeni Zelanda",
       "region-code":"009",
       "sub-region-code":"053",
       "eea":false,
       "calling_code":"64",
       "currency_symbol":"$",
-      "currency_decimals":"2",
       "flag":"NZ.png"
    },
-   "558":{
+   "558":{  
       "capital":"Managua",
       "citizenship":"Nicaraguan",
       "country-code":"558",
@@ -2992,16 +2836,15 @@
       "full_name":"Republic of Nicaragua",
       "iso_3166_2":"NI",
       "iso_3166_3":"NIC",
-      "name":"Nicaragua",
+      "name":"Nikaragua",
       "region-code":"019",
       "sub-region-code":"013",
       "eea":false,
       "calling_code":"505",
       "currency_symbol":"C$",
-      "currency_decimals":"2",
       "flag":"NI.png"
    },
-   "562":{
+   "562":{  
       "capital":"Niamey",
       "citizenship":"Nigerien",
       "country-code":"562",
@@ -3011,16 +2854,15 @@
       "full_name":"Republic of Niger",
       "iso_3166_2":"NE",
       "iso_3166_3":"NER",
-      "name":"Niger",
+      "name":"Nijer",
       "region-code":"002",
       "sub-region-code":"011",
       "eea":false,
       "calling_code":"227",
       "currency_symbol":"XOF",
-      "currency_decimals":"0",
       "flag":"NE.png"
    },
-   "566":{
+   "566":{  
       "capital":"Abuja",
       "citizenship":"Nigerian",
       "country-code":"566",
@@ -3030,16 +2872,15 @@
       "full_name":"Federal Republic of Nigeria",
       "iso_3166_2":"NG",
       "iso_3166_3":"NGA",
-      "name":"Nigeria",
+      "name":"Nijerya",
       "region-code":"002",
       "sub-region-code":"011",
       "eea":false,
       "calling_code":"234",
       "currency_symbol":"\u20a6",
-      "currency_decimals":"2",
       "flag":"NG.png"
    },
-   "570":{
+   "570":{  
       "capital":"Alofi",
       "citizenship":"Niuean",
       "country-code":"570",
@@ -3049,16 +2890,15 @@
       "full_name":"Niue",
       "iso_3166_2":"NU",
       "iso_3166_3":"NIU",
-      "name":"Niue",
+      "name":"Norve\u00e7",
       "region-code":"009",
       "sub-region-code":"061",
       "eea":false,
       "calling_code":"683",
       "currency_symbol":"$",
-      "currency_decimals":"2",
       "flag":"NU.png"
    },
-   "574":{
+   "574":{  
       "capital":"Kingston",
       "citizenship":"Norfolk Islander",
       "country-code":"574",
@@ -3068,16 +2908,15 @@
       "full_name":"Territory of Norfolk Island",
       "iso_3166_2":"NF",
       "iso_3166_3":"NFK",
-      "name":"Norfolk Island",
+      "name":"Norfolk Adas\u0131",
       "region-code":"009",
       "sub-region-code":"053",
       "eea":false,
       "calling_code":"672",
       "currency_symbol":"$",
-      "currency_decimals":"2",
       "flag":"NF.png"
    },
-   "578":{
+   "578":{  
       "capital":"Oslo",
       "citizenship":"Norwegian",
       "country-code":"578",
@@ -3087,16 +2926,15 @@
       "full_name":"Kingdom of Norway",
       "iso_3166_2":"NO",
       "iso_3166_3":"NOR",
-      "name":"Norway",
+      "name":"Norve\u00e7",
       "region-code":"150",
       "sub-region-code":"154",
-      "eea":false,
+      "eea":true,
       "calling_code":"47",
       "currency_symbol":"kr",
-      "currency_decimals":"2",
       "flag":"NO.png"
    },
-   "580":{
+   "580":{  
       "capital":"Saipan",
       "citizenship":"Northern Mariana Islander",
       "country-code":"580",
@@ -3106,16 +2944,15 @@
       "full_name":"Commonwealth of the Northern Mariana Islands",
       "iso_3166_2":"MP",
       "iso_3166_3":"MNP",
-      "name":"Northern Mariana Islands",
+      "name":"Kuzey Mariana Adalar\u0131",
       "region-code":"009",
       "sub-region-code":"057",
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"$",
-      "currency_decimals":"2",
       "flag":"MP.png"
    },
-   "581":{
+   "581":{  
       "capital":"United States Minor Outlying Islands",
       "citizenship":"of United States Minor Outlying Islands",
       "country-code":"581",
@@ -3125,16 +2962,15 @@
       "full_name":"United States Minor Outlying Islands",
       "iso_3166_2":"UM",
       "iso_3166_3":"UMI",
-      "name":"United States Minor Outlying Islands",
+      "name":"Amerika Birle\u015fik Devletleri K\u00fc\u00e7\u00fck D\u0131\u015f Adalar\u0131",
       "region-code":"",
       "sub-region-code":"",
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"$",
-      "currency_decimals":"2",
       "flag":"UM.png"
    },
-   "583":{
+   "583":{  
       "capital":"Palikir",
       "citizenship":"Micronesian",
       "country-code":"583",
@@ -3144,16 +2980,15 @@
       "full_name":"Federated States of Micronesia",
       "iso_3166_2":"FM",
       "iso_3166_3":"FSM",
-      "name":"Micronesia, Federated States of",
+      "name":"Mikronezya Federal Devletleri",
       "region-code":"009",
       "sub-region-code":"057",
       "eea":false,
       "calling_code":"691",
       "currency_symbol":"$",
-      "currency_decimals":"2",
       "flag":"FM.png"
    },
-   "584":{
+   "584":{  
       "capital":"Majuro",
       "citizenship":"Marshallese",
       "country-code":"584",
@@ -3163,16 +2998,15 @@
       "full_name":"Republic of the Marshall Islands",
       "iso_3166_2":"MH",
       "iso_3166_3":"MHL",
-      "name":"Marshall Islands",
+      "name":"Marshall Adalar\u0131",
       "region-code":"009",
       "sub-region-code":"057",
       "eea":false,
       "calling_code":"692",
       "currency_symbol":"$",
-      "currency_decimals":"2",
       "flag":"MH.png"
    },
-   "585":{
+   "585":{  
       "capital":"Melekeok",
       "citizenship":"Palauan",
       "country-code":"585",
@@ -3188,10 +3022,9 @@
       "eea":false,
       "calling_code":"680",
       "currency_symbol":"$",
-      "currency_decimals":"2",
       "flag":"PW.png"
    },
-   "586":{
+   "586":{  
       "capital":"Islamabad",
       "citizenship":"Pakistani",
       "country-code":"586",
@@ -3207,10 +3040,9 @@
       "eea":false,
       "calling_code":"92",
       "currency_symbol":"\u20a8",
-      "currency_decimals":"2",
       "flag":"PK.png"
    },
-   "591":{
+   "591":{  
       "capital":"Panama City",
       "citizenship":"Panamanian",
       "country-code":"591",
@@ -3226,10 +3058,9 @@
       "eea":false,
       "calling_code":"507",
       "currency_symbol":"B\/.",
-      "currency_decimals":"2",
       "flag":"PA.png"
    },
-   "598":{
+   "598":{  
       "capital":"Port Moresby",
       "citizenship":"Papua New Guinean",
       "country-code":"598",
@@ -3239,16 +3070,15 @@
       "full_name":"Independent State of Papua New Guinea",
       "iso_3166_2":"PG",
       "iso_3166_3":"PNG",
-      "name":"Papua New Guinea",
+      "name":"Papua Yeni Gine",
       "region-code":"009",
       "sub-region-code":"054",
       "eea":false,
       "calling_code":"675",
       "currency_symbol":"PGK",
-      "currency_decimals":"2",
       "flag":"PG.png"
    },
-   "600":{
+   "600":{  
       "capital":"Asunci\u00f3n",
       "citizenship":"Paraguayan",
       "country-code":"600",
@@ -3264,10 +3094,9 @@
       "eea":false,
       "calling_code":"595",
       "currency_symbol":"Gs",
-      "currency_decimals":"0",
       "flag":"PY.png"
    },
-   "604":{
+   "604":{  
       "capital":"Lima",
       "citizenship":"Peruvian",
       "country-code":"604",
@@ -3283,10 +3112,9 @@
       "eea":false,
       "calling_code":"51",
       "currency_symbol":"S\/.",
-      "currency_decimals":"2",
       "flag":"PE.png"
    },
-   "608":{
+   "608":{  
       "capital":"Manila",
       "citizenship":"Filipino",
       "country-code":"608",
@@ -3296,16 +3124,15 @@
       "full_name":"Republic of the Philippines",
       "iso_3166_2":"PH",
       "iso_3166_3":"PHL",
-      "name":"Philippines",
+      "name":"Filipinler",
       "region-code":"142",
       "sub-region-code":"035",
       "eea":false,
       "calling_code":"63",
       "currency_symbol":"Php",
-      "currency_decimals":"2",
       "flag":"PH.png"
    },
-   "612":{
+   "612":{  
       "capital":"Adamstown",
       "citizenship":"Pitcairner",
       "country-code":"612",
@@ -3321,10 +3148,9 @@
       "eea":false,
       "calling_code":"649",
       "currency_symbol":"$",
-      "currency_decimals":"2",
       "flag":"PN.png"
    },
-   "616":{
+   "616":{  
       "capital":"Warsaw",
       "citizenship":"Polish",
       "country-code":"616",
@@ -3334,16 +3160,15 @@
       "full_name":"Republic of Poland",
       "iso_3166_2":"PL",
       "iso_3166_3":"POL",
-      "name":"Poland",
+      "name":"Polonya",
       "region-code":"150",
       "sub-region-code":"151",
       "eea":true,
       "calling_code":"48",
       "currency_symbol":"z\u0142",
-      "currency_decimals":"2",
       "flag":"PL.png"
    },
-   "620":{
+   "620":{  
       "capital":"Lisbon",
       "citizenship":"Portuguese",
       "country-code":"620",
@@ -3353,16 +3178,15 @@
       "full_name":"Portuguese Republic",
       "iso_3166_2":"PT",
       "iso_3166_3":"PRT",
-      "name":"Portugal",
+      "name":"Portekiz",
       "region-code":"150",
       "sub-region-code":"039",
       "eea":true,
       "calling_code":"351",
       "currency_symbol":"\u20ac",
-      "currency_decimals":"2",
       "flag":"PT.png"
    },
-   "624":{
+   "624":{  
       "capital":"Bissau",
       "citizenship":"Guinea-Bissau national",
       "country-code":"624",
@@ -3372,16 +3196,15 @@
       "full_name":"Republic of Guinea-Bissau",
       "iso_3166_2":"GW",
       "iso_3166_3":"GNB",
-      "name":"Guinea-Bissau",
+      "name":"Gine-Bissau",
       "region-code":"002",
       "sub-region-code":"011",
       "eea":false,
       "calling_code":"245",
       "currency_symbol":"XOF",
-      "currency_decimals":"0",
       "flag":"GW.png"
    },
-   "626":{
+   "626":{  
       "capital":"Dili",
       "citizenship":"East Timorese",
       "country-code":"626",
@@ -3397,10 +3220,9 @@
       "eea":false,
       "calling_code":"670",
       "currency_symbol":"$",
-      "currency_decimals":"2",
       "flag":"TL.png"
    },
-   "630":{
+   "630":{  
       "capital":"San Juan",
       "citizenship":"Puerto Rican",
       "country-code":"630",
@@ -3410,16 +3232,15 @@
       "full_name":"Commonwealth of Puerto Rico",
       "iso_3166_2":"PR",
       "iso_3166_3":"PRI",
-      "name":"Puerto Rico",
+      "name":"Porto Riko",
       "region-code":"019",
       "sub-region-code":"029",
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"$",
-      "currency_decimals":"2",
       "flag":"PR.png"
    },
-   "634":{
+   "634":{  
       "capital":"Doha",
       "citizenship":"Qatari",
       "country-code":"634",
@@ -3429,16 +3250,15 @@
       "full_name":"State of Qatar",
       "iso_3166_2":"QA",
       "iso_3166_3":"QAT",
-      "name":"Qatar",
+      "name":"Katar",
       "region-code":"142",
       "sub-region-code":"145",
       "eea":false,
       "calling_code":"974",
       "currency_symbol":"\ufdfc",
-      "currency_decimals":"2",
       "flag":"QA.png"
    },
-   "638":{
+   "638":{  
       "capital":"Saint-Denis",
       "citizenship":"Reunionese",
       "country-code":"638",
@@ -3448,16 +3268,15 @@
       "full_name":"R\u00e9union",
       "iso_3166_2":"RE",
       "iso_3166_3":"REU",
-      "name":"R\u00e9union",
+      "name":"Reunion",
       "region-code":"002",
       "sub-region-code":"014",
       "eea":false,
       "calling_code":"262",
       "currency_symbol":"\u20ac",
-      "currency_decimals":"2",
       "flag":"RE.png"
    },
-   "642":{
+   "642":{  
       "capital":"Bucharest",
       "citizenship":"Romanian",
       "country-code":"642",
@@ -3467,16 +3286,15 @@
       "full_name":"Romania",
       "iso_3166_2":"RO",
       "iso_3166_3":"ROU",
-      "name":"Romania",
+      "name":"Romanya",
       "region-code":"150",
       "sub-region-code":"151",
       "eea":true,
       "calling_code":"40",
       "currency_symbol":"lei",
-      "currency_decimals":"2",
       "flag":"RO.png"
    },
-   "643":{
+   "643":{  
       "capital":"Moscow",
       "citizenship":"Russian",
       "country-code":"643",
@@ -3486,16 +3304,15 @@
       "full_name":"Russian Federation",
       "iso_3166_2":"RU",
       "iso_3166_3":"RUS",
-      "name":"Russian Federation",
+      "name":"Rusya Federasyonu",
       "region-code":"150",
       "sub-region-code":"151",
       "eea":false,
       "calling_code":"7",
       "currency_symbol":"\u0440\u0443\u0431",
-      "currency_decimals":"2",
       "flag":"RU.png"
    },
-   "646":{
+   "646":{  
       "capital":"Kigali",
       "citizenship":"Rwandan; Rwandese",
       "country-code":"646",
@@ -3505,16 +3322,15 @@
       "full_name":"Republic of Rwanda",
       "iso_3166_2":"RW",
       "iso_3166_3":"RWA",
-      "name":"Rwanda",
+      "name":"Ruanda",
       "region-code":"002",
       "sub-region-code":"014",
       "eea":false,
       "calling_code":"250",
       "currency_symbol":"RWF",
-      "currency_decimals":"0",
       "flag":"RW.png"
    },
-   "652":{
+   "652":{  
       "capital":"Gustavia",
       "citizenship":"of Saint Barth\u00e9lemy",
       "country-code":"652",
@@ -3530,7 +3346,7 @@
       "eea":false,
       "calling_code":"590"
    },
-   "654":{
+   "654":{  
       "capital":"Jamestown",
       "citizenship":"Saint Helenian",
       "country-code":"654",
@@ -3540,16 +3356,15 @@
       "full_name":"Saint Helena, Ascension and Tristan da Cunha",
       "iso_3166_2":"SH",
       "iso_3166_3":"SHN",
-      "name":"Saint Helena, Ascension and Tristan da Cunha",
+      "name":"Saint Helena, Y\u00fckseli\u015f ve Tristan da Cunha",
       "region-code":"002",
       "sub-region-code":"011",
       "eea":false,
       "calling_code":"290",
       "currency_symbol":"\u00a3",
-      "currency_decimals":"2",
       "flag":"SH.png"
    },
-   "659":{
+   "659":{  
       "capital":"Basseterre",
       "citizenship":"Kittsian; Nevisian",
       "country-code":"659",
@@ -3559,16 +3374,15 @@
       "full_name":"Federation of Saint Kitts and Nevis",
       "iso_3166_2":"KN",
       "iso_3166_3":"KNA",
-      "name":"Saint Kitts and Nevis",
+      "name":"Saint Kitts ve Nevis",
       "region-code":"019",
       "sub-region-code":"029",
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"$",
-      "currency_decimals":"2",
       "flag":"KN.png"
    },
-   "660":{
+   "660":{  
       "capital":"The Valley",
       "citizenship":"Anguillan",
       "country-code":"660",
@@ -3584,10 +3398,9 @@
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"$",
-      "currency_decimals":"2",
       "flag":"AI.png"
    },
-   "662":{
+   "662":{  
       "capital":"Castries",
       "citizenship":"Saint Lucian",
       "country-code":"662",
@@ -3603,10 +3416,9 @@
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"$",
-      "currency_decimals":"2",
       "flag":"LC.png"
    },
-   "663":{
+   "663":{  
       "capital":"Marigot",
       "citizenship":"of Saint Martin",
       "country-code":"663",
@@ -3616,13 +3428,13 @@
       "full_name":"Collectivity of Saint Martin",
       "iso_3166_2":"MF",
       "iso_3166_3":"MAF",
-      "name":"Saint Martin (French part)",
+      "name":"(Frans\u0131zca b\u00f6l\u00fcm), Saint Martin",
       "region-code":"019",
       "sub-region-code":"029",
       "eea":false,
       "calling_code":"590"
    },
-   "666":{
+   "666":{  
       "capital":"Saint-Pierre",
       "citizenship":"St-Pierrais; Miquelonnais",
       "country-code":"666",
@@ -3632,16 +3444,15 @@
       "full_name":"Territorial Collectivity of Saint Pierre and Miquelon",
       "iso_3166_2":"PM",
       "iso_3166_3":"SPM",
-      "name":"Saint Pierre and Miquelon",
+      "name":"Saint Pierre ve Miquelon",
       "region-code":"019",
       "sub-region-code":"021",
       "eea":false,
       "calling_code":"508",
       "currency_symbol":"\u20ac",
-      "currency_decimals":"2",
       "flag":"PM.png"
    },
-   "670":{
+   "670":{  
       "capital":"Kingstown",
       "citizenship":"Vincentian",
       "country-code":"670",
@@ -3651,21 +3462,20 @@
       "full_name":"Saint Vincent and the Grenadines",
       "iso_3166_2":"VC",
       "iso_3166_3":"VCT",
-      "name":"Saint Vincent and the Grenadines",
+      "name":"Saint Vincent ve Grenadines",
       "region-code":"019",
       "sub-region-code":"029",
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"$",
-      "currency_decimals":"2",
       "flag":"VC.png"
    },
-   "674":{
+   "674":{  
       "capital":"San Marino",
       "citizenship":"San Marinese",
       "country-code":"674",
       "currency":"euro",
-      "currency_code":"EUR",
+      "currency_code":"EUR ",
       "currency_sub_unit":"cent",
       "full_name":"Republic of San Marino",
       "iso_3166_2":"SM",
@@ -3676,10 +3486,9 @@
       "eea":false,
       "calling_code":"378",
       "currency_symbol":"\u20ac",
-      "currency_decimals":"2",
       "flag":"SM.png"
    },
-   "678":{
+   "678":{  
       "capital":"S\u00e3o Tom\u00e9",
       "citizenship":"S\u00e3o Tom\u00e9an",
       "country-code":"678",
@@ -3689,16 +3498,15 @@
       "full_name":"Democratic Republic of S\u00e3o Tom\u00e9 and Pr\u00edncipe",
       "iso_3166_2":"ST",
       "iso_3166_3":"STP",
-      "name":"Sao Tome and Principe",
+      "name":"Sao Tome ve Principe",
       "region-code":"002",
       "sub-region-code":"017",
       "eea":false,
       "calling_code":"239",
       "currency_symbol":"Db",
-      "currency_decimals":"2",
       "flag":"ST.png"
    },
-   "682":{
+   "682":{  
       "capital":"Riyadh",
       "citizenship":"Saudi Arabian",
       "country-code":"682",
@@ -3708,16 +3516,15 @@
       "full_name":"Kingdom of Saudi Arabia",
       "iso_3166_2":"SA",
       "iso_3166_3":"SAU",
-      "name":"Saudi Arabia",
+      "name":"Suudi Arabistan",
       "region-code":"142",
       "sub-region-code":"145",
       "eea":false,
       "calling_code":"966",
       "currency_symbol":"\ufdfc",
-      "currency_decimals":"2",
       "flag":"SA.png"
    },
-   "686":{
+   "686":{  
       "capital":"Dakar",
       "citizenship":"Senegalese",
       "country-code":"686",
@@ -3733,10 +3540,9 @@
       "eea":false,
       "calling_code":"221",
       "currency_symbol":"XOF",
-      "currency_decimals":"0",
       "flag":"SN.png"
    },
-   "688":{
+   "688":{  
       "capital":"Belgrade",
       "citizenship":"Serb",
       "country-code":"688",
@@ -3746,13 +3552,13 @@
       "full_name":"Republic of Serbia",
       "iso_3166_2":"RS",
       "iso_3166_3":"SRB",
-      "name":"Serbia",
+      "name":"S\u0131rbistan",
       "region-code":"150",
       "sub-region-code":"039",
       "eea":false,
       "calling_code":"381"
    },
-   "690":{
+   "690":{  
       "capital":"Victoria",
       "citizenship":"Seychellois",
       "country-code":"690",
@@ -3768,10 +3574,9 @@
       "eea":false,
       "calling_code":"248",
       "currency_symbol":"\u20a8",
-      "currency_decimals":"2",
       "flag":"SC.png"
    },
-   "694":{
+   "694":{  
       "capital":"Freetown",
       "citizenship":"Sierra Leonean",
       "country-code":"694",
@@ -3787,10 +3592,9 @@
       "eea":false,
       "calling_code":"232",
       "currency_symbol":"Le",
-      "currency_decimals":"2",
       "flag":"SL.png"
    },
-   "702":{
+   "702":{  
       "capital":"Singapore",
       "citizenship":"Singaporean",
       "country-code":"702",
@@ -3800,16 +3604,15 @@
       "full_name":"Republic of Singapore",
       "iso_3166_2":"SG",
       "iso_3166_3":"SGP",
-      "name":"Singapore",
+      "name":"Singapur",
       "region-code":"142",
       "sub-region-code":"035",
       "eea":false,
       "calling_code":"65",
       "currency_symbol":"$",
-      "currency_decimals":"2",
       "flag":"SG.png"
    },
-   "703":{
+   "703":{  
       "capital":"Bratislava",
       "citizenship":"Slovak",
       "country-code":"703",
@@ -3819,16 +3622,15 @@
       "full_name":"Slovak Republic",
       "iso_3166_2":"SK",
       "iso_3166_3":"SVK",
-      "name":"Slovakia",
+      "name":"Slovakya",
       "region-code":"150",
       "sub-region-code":"151",
       "eea":true,
       "calling_code":"421",
       "currency_symbol":"Sk",
-      "currency_decimals":"2",
       "flag":"SK.png"
    },
-   "704":{
+   "704":{  
       "capital":"Hanoi",
       "citizenship":"Vietnamese",
       "country-code":"704",
@@ -3844,10 +3646,9 @@
       "eea":false,
       "calling_code":"84",
       "currency_symbol":"\u20ab",
-      "currency_decimals":"2",
       "flag":"VN.png"
    },
-   "705":{
+   "705":{  
       "capital":"Ljubljana",
       "citizenship":"Slovene",
       "country-code":"705",
@@ -3857,16 +3658,15 @@
       "full_name":"Republic of Slovenia",
       "iso_3166_2":"SI",
       "iso_3166_3":"SVN",
-      "name":"Slovenia",
+      "name":"Slovenya",
       "region-code":"150",
       "sub-region-code":"039",
       "eea":true,
       "calling_code":"386",
       "currency_symbol":"\u20ac",
-      "currency_decimals":"2",
       "flag":"SI.png"
    },
-   "706":{
+   "706":{  
       "capital":"Mogadishu",
       "citizenship":"Somali",
       "country-code":"706",
@@ -3876,16 +3676,15 @@
       "full_name":"Somali Republic",
       "iso_3166_2":"SO",
       "iso_3166_3":"SOM",
-      "name":"Somalia",
+      "name":"Somali",
       "region-code":"002",
       "sub-region-code":"014",
       "eea":false,
       "calling_code":"252",
       "currency_symbol":"S",
-      "currency_decimals":"2",
       "flag":"SO.png"
    },
-   "710":{
+   "710":{  
       "capital":"Pretoria (ZA1)",
       "citizenship":"South African",
       "country-code":"710",
@@ -3895,16 +3694,15 @@
       "full_name":"Republic of South Africa",
       "iso_3166_2":"ZA",
       "iso_3166_3":"ZAF",
-      "name":"South Africa",
+      "name":"G\u00fcney Afrika",
       "region-code":"002",
       "sub-region-code":"018",
       "eea":false,
       "calling_code":"27",
       "currency_symbol":"R",
-      "currency_decimals":"2",
       "flag":"ZA.png"
    },
-   "716":{
+   "716":{  
       "capital":"Harare",
       "citizenship":"Zimbabwean",
       "country-code":"716",
@@ -3914,16 +3712,15 @@
       "full_name":"Republic of Zimbabwe",
       "iso_3166_2":"ZW",
       "iso_3166_3":"ZWE",
-      "name":"Zimbabwe",
+      "name":"Zimbabve",
       "region-code":"002",
       "sub-region-code":"014",
       "eea":false,
       "calling_code":"263",
       "currency_symbol":"Z$",
-      "currency_decimals":"2",
       "flag":"ZW.png"
    },
-   "724":{
+   "724":{  
       "capital":"Madrid",
       "citizenship":"Spaniard",
       "country-code":"724",
@@ -3933,16 +3730,15 @@
       "full_name":"Kingdom of Spain",
       "iso_3166_2":"ES",
       "iso_3166_3":"ESP",
-      "name":"Spain",
+      "name":"\u0130spanya",
       "region-code":"150",
       "sub-region-code":"039",
       "eea":true,
       "calling_code":"34",
       "currency_symbol":"\u20ac",
-      "currency_decimals":"2",
       "flag":"ES.png"
    },
-   "728":{
+   "728":{  
       "capital":"Juba",
       "citizenship":"South Sudanese",
       "country-code":"728",
@@ -3952,13 +3748,13 @@
       "full_name":"Republic of South Sudan",
       "iso_3166_2":"SS",
       "iso_3166_3":"SSD",
-      "name":"South Sudan",
+      "name":"G\u00fcney Sudan",
       "region-code":"002",
       "sub-region-code":"015",
       "eea":false,
       "calling_code":"211"
    },
-   "729":{
+   "729":{  
       "capital":"Khartoum",
       "citizenship":"Sudanese",
       "country-code":"729",
@@ -3974,7 +3770,7 @@
       "eea":false,
       "calling_code":"249"
    },
-   "732":{
+   "732":{  
       "capital":"Al aaiun",
       "citizenship":"Sahrawi",
       "country-code":"732",
@@ -3984,16 +3780,15 @@
       "full_name":"Western Sahara",
       "iso_3166_2":"EH",
       "iso_3166_3":"ESH",
-      "name":"Western Sahara",
+      "name":"Bat\u0131 Sahra",
       "region-code":"002",
       "sub-region-code":"015",
       "eea":false,
       "calling_code":"212",
       "currency_symbol":"MAD",
-      "currency_decimals":"2",
       "flag":"EH.png"
    },
-   "740":{
+   "740":{  
       "capital":"Paramaribo",
       "citizenship":"Surinamese",
       "country-code":"740",
@@ -4003,16 +3798,15 @@
       "full_name":"Republic of Suriname",
       "iso_3166_2":"SR",
       "iso_3166_3":"SUR",
-      "name":"Suriname",
+      "name":"Surinam",
       "region-code":"019",
       "sub-region-code":"005",
       "eea":false,
       "calling_code":"597",
       "currency_symbol":"$",
-      "currency_decimals":"2",
       "flag":"SR.png"
    },
-   "744":{
+   "744":{  
       "capital":"Longyearbyen",
       "citizenship":"of Svalbard",
       "country-code":"744",
@@ -4022,16 +3816,15 @@
       "full_name":"Svalbard and Jan Mayen",
       "iso_3166_2":"SJ",
       "iso_3166_3":"SJM",
-      "name":"Svalbard and Jan Mayen",
+      "name":"Saint Vincent ve Grenadines",
       "region-code":"150",
       "sub-region-code":"154",
       "eea":false,
       "calling_code":"47",
       "currency_symbol":"kr",
-      "currency_decimals":"2",
       "flag":"SJ.png"
    },
-   "748":{
+   "748":{  
       "capital":"Mbabane",
       "citizenship":"Swazi",
       "country-code":"748",
@@ -4047,10 +3840,9 @@
       "eea":false,
       "calling_code":"268",
       "currency_symbol":"SZL",
-      "currency_decimals":"2",
       "flag":"SZ.png"
    },
-   "752":{
+   "752":{  
       "capital":"Stockholm",
       "citizenship":"Swedish",
       "country-code":"752",
@@ -4060,16 +3852,15 @@
       "full_name":"Kingdom of Sweden",
       "iso_3166_2":"SE",
       "iso_3166_3":"SWE",
-      "name":"Sweden",
+      "name":"\u0130sve\u00e7",
       "region-code":"150",
       "sub-region-code":"154",
       "eea":true,
       "calling_code":"46",
       "currency_symbol":"kr",
-      "currency_decimals":"2",
       "flag":"SE.png"
    },
-   "756":{
+   "756":{  
       "capital":"Berne",
       "citizenship":"Swiss",
       "country-code":"756",
@@ -4079,16 +3870,15 @@
       "full_name":"Swiss Confederation",
       "iso_3166_2":"CH",
       "iso_3166_3":"CHE",
-      "name":"Switzerland",
+      "name":"\u0130svi\u00e7re",
       "region-code":"150",
       "sub-region-code":"155",
-      "eea":false,
+      "eea":true,
       "calling_code":"41",
       "currency_symbol":"CHF",
-      "currency_decimals":"2",
       "flag":"CH.png"
    },
-   "760":{
+   "760":{  
       "capital":"Damascus",
       "citizenship":"Syrian",
       "country-code":"760",
@@ -4098,16 +3888,15 @@
       "full_name":"Syrian Arab Republic",
       "iso_3166_2":"SY",
       "iso_3166_3":"SYR",
-      "name":"Syrian Arab Republic",
+      "name":"Suriye Arap Cumhuriyeti",
       "region-code":"142",
       "sub-region-code":"145",
       "eea":false,
       "calling_code":"963",
       "currency_symbol":"\u00a3",
-      "currency_decimals":"2",
       "flag":"SY.png"
    },
-   "762":{
+   "762":{  
       "capital":"Dushanbe",
       "citizenship":"Tajik",
       "country-code":"762",
@@ -4117,16 +3906,15 @@
       "full_name":"Republic of Tajikistan",
       "iso_3166_2":"TJ",
       "iso_3166_3":"TJK",
-      "name":"Tajikistan",
+      "name":"Tacikistan",
       "region-code":"142",
       "sub-region-code":"143",
       "eea":false,
       "calling_code":"992",
       "currency_symbol":"TJS",
-      "currency_decimals":"2",
       "flag":"TJ.png"
    },
-   "764":{
+   "764":{  
       "capital":"Bangkok",
       "citizenship":"Thai",
       "country-code":"764",
@@ -4136,16 +3924,15 @@
       "full_name":"Kingdom of Thailand",
       "iso_3166_2":"TH",
       "iso_3166_3":"THA",
-      "name":"Thailand",
+      "name":"Tayland",
       "region-code":"142",
       "sub-region-code":"035",
       "eea":false,
       "calling_code":"66",
       "currency_symbol":"\u0e3f",
-      "currency_decimals":"2",
       "flag":"TH.png"
    },
-   "768":{
+   "768":{  
       "capital":"Lom\u00e9",
       "citizenship":"Togolese",
       "country-code":"768",
@@ -4161,10 +3948,9 @@
       "eea":false,
       "calling_code":"228",
       "currency_symbol":"XOF",
-      "currency_decimals":"0",
       "flag":"TG.png"
    },
-   "772":{
+   "772":{  
       "capital":"(TK2)",
       "citizenship":"Tokelauan",
       "country-code":"772",
@@ -4180,10 +3966,9 @@
       "eea":false,
       "calling_code":"690",
       "currency_symbol":"$",
-      "currency_decimals":"2",
       "flag":"TK.png"
    },
-   "776":{
+   "776":{  
       "capital":"Nuku\u2019alofa",
       "citizenship":"Tongan",
       "country-code":"776",
@@ -4199,10 +3984,9 @@
       "eea":false,
       "calling_code":"676",
       "currency_symbol":"T$",
-      "currency_decimals":"2",
       "flag":"TO.png"
    },
-   "780":{
+   "780":{  
       "capital":"Port of Spain",
       "citizenship":"Trinidadian; Tobagonian",
       "country-code":"780",
@@ -4212,16 +3996,15 @@
       "full_name":"Republic of Trinidad and Tobago",
       "iso_3166_2":"TT",
       "iso_3166_3":"TTO",
-      "name":"Trinidad and Tobago",
+      "name":"Trinidad ve Tobago",
       "region-code":"019",
       "sub-region-code":"029",
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"TT$",
-      "currency_decimals":"2",
       "flag":"TT.png"
    },
-   "784":{
+   "784":{  
       "capital":"Abu Dhabi",
       "citizenship":"Emirian",
       "country-code":"784",
@@ -4231,16 +4014,15 @@
       "full_name":"United Arab Emirates",
       "iso_3166_2":"AE",
       "iso_3166_3":"ARE",
-      "name":"United Arab Emirates",
+      "name":"Birle\u015fik Arap Emirlikleri",
       "region-code":"142",
       "sub-region-code":"145",
       "eea":false,
       "calling_code":"971",
       "currency_symbol":"AED",
-      "currency_decimals":"2",
       "flag":"AE.png"
    },
-   "788":{
+   "788":{  
       "capital":"Tunis",
       "citizenship":"Tunisian",
       "country-code":"788",
@@ -4250,16 +4032,15 @@
       "full_name":"Republic of Tunisia",
       "iso_3166_2":"TN",
       "iso_3166_3":"TUN",
-      "name":"Tunisia",
+      "name":"Tunus",
       "region-code":"002",
       "sub-region-code":"015",
       "eea":false,
       "calling_code":"216",
       "currency_symbol":"TND",
-      "currency_decimals":"3",
       "flag":"TN.png"
    },
-   "792":{
+   "792":{  
       "capital":"Ankara",
       "citizenship":"Turk",
       "country-code":"792",
@@ -4269,16 +4050,15 @@
       "full_name":"Republic of Turkey",
       "iso_3166_2":"TR",
       "iso_3166_3":"TUR",
-      "name":"Turkey",
+      "name":"T\u00fcrkiye",
       "region-code":"142",
       "sub-region-code":"145",
       "eea":false,
       "calling_code":"90",
-      "currency_symbol":"₺",
-      "currency_decimals":"2",
+      "currency_symbol":"YTL",
       "flag":"TR.png"
    },
-   "795":{
+   "795":{  
       "capital":"Ashgabat",
       "citizenship":"Turkmen",
       "country-code":"795",
@@ -4288,16 +4068,15 @@
       "full_name":"Turkmenistan",
       "iso_3166_2":"TM",
       "iso_3166_3":"TKM",
-      "name":"Turkmenistan",
+      "name":"T\u00fcrkmenistan",
       "region-code":"142",
       "sub-region-code":"143",
       "eea":false,
       "calling_code":"993",
       "currency_symbol":"m",
-      "currency_decimals":"2",
       "flag":"TM.png"
    },
-   "796":{
+   "796":{  
       "capital":"Cockburn Town",
       "citizenship":"Turks and Caicos Islander",
       "country-code":"796",
@@ -4307,16 +4086,15 @@
       "full_name":"Turks and Caicos Islands",
       "iso_3166_2":"TC",
       "iso_3166_3":"TCA",
-      "name":"Turks and Caicos Islands",
+      "name":"Turks ve Caicos Adalar\u0131",
       "region-code":"019",
       "sub-region-code":"029",
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"$",
-      "currency_decimals":"2",
       "flag":"TC.png"
    },
-   "798":{
+   "798":{  
       "capital":"Funafuti",
       "citizenship":"Tuvaluan",
       "country-code":"798",
@@ -4332,10 +4110,9 @@
       "eea":false,
       "calling_code":"688",
       "currency_symbol":"$",
-      "currency_decimals":"2",
       "flag":"TV.png"
    },
-   "800":{
+   "800":{  
       "capital":"Kampala",
       "citizenship":"Ugandan",
       "country-code":"800",
@@ -4351,10 +4128,9 @@
       "eea":false,
       "calling_code":"256",
       "currency_symbol":"UGX",
-      "currency_decimals":"0",
       "flag":"UG.png"
    },
-   "804":{
+   "804":{  
       "capital":"Kiev",
       "citizenship":"Ukrainian",
       "country-code":"804",
@@ -4364,16 +4140,15 @@
       "full_name":"Ukraine",
       "iso_3166_2":"UA",
       "iso_3166_3":"UKR",
-      "name":"Ukraine",
+      "name":"Ukrayna",
       "region-code":"150",
       "sub-region-code":"151",
       "eea":false,
       "calling_code":"380",
       "currency_symbol":"\u20b4",
-      "currency_decimals":"2",
       "flag":"UA.png"
    },
-   "807":{
+   "807":{  
       "capital":"Skopje",
       "citizenship":"of the former Yugoslav Republic of Macedonia",
       "country-code":"807",
@@ -4383,16 +4158,15 @@
       "full_name":"the former Yugoslav Republic of Macedonia",
       "iso_3166_2":"MK",
       "iso_3166_3":"MKD",
-      "name":"Macedonia, the former Yugoslav Republic of",
+      "name":"Makedonya, eski Yugoslav Cumhuriyeti",
       "region-code":"150",
       "sub-region-code":"039",
       "eea":false,
       "calling_code":"389",
       "currency_symbol":"\u0434\u0435\u043d",
-      "currency_decimals":"2",
       "flag":"MK.png"
    },
-   "818":{
+   "818":{  
       "capital":"Cairo",
       "citizenship":"Egyptian",
       "country-code":"818",
@@ -4402,16 +4176,15 @@
       "full_name":"Arab Republic of Egypt",
       "iso_3166_2":"EG",
       "iso_3166_3":"EGY",
-      "name":"Egypt",
+      "name":"M\u0131s\u0131r",
       "region-code":"002",
       "sub-region-code":"015",
       "eea":false,
       "calling_code":"20",
       "currency_symbol":"\u00a3",
-      "currency_decimals":"2",
       "flag":"EG.png"
    },
-   "826":{
+   "826":{  
       "capital":"London",
       "citizenship":"British",
       "country-code":"826",
@@ -4421,16 +4194,15 @@
       "full_name":"United Kingdom of Great Britain and Northern Ireland",
       "iso_3166_2":"GB",
       "iso_3166_3":"GBR",
-      "name":"United Kingdom",
+      "name":"Birle\u015fik Krall\u0131k",
       "region-code":"150",
       "sub-region-code":"154",
       "eea":true,
       "calling_code":"44",
       "currency_symbol":"\u00a3",
-      "currency_decimals":"2",
       "flag":"GB.png"
    },
-   "831":{
+   "831":{  
       "capital":"St Peter Port",
       "citizenship":"of Guernsey",
       "country-code":"831",
@@ -4446,7 +4218,7 @@
       "eea":false,
       "calling_code":"44"
    },
-   "832":{
+   "832":{  
       "capital":"St Helier",
       "citizenship":"of Jersey",
       "country-code":"832",
@@ -4462,7 +4234,7 @@
       "eea":false,
       "calling_code":"44"
    },
-   "833":{
+   "833":{  
       "capital":"Douglas",
       "citizenship":"Manxman; Manxwoman",
       "country-code":"833",
@@ -4472,13 +4244,13 @@
       "full_name":"Isle of Man",
       "iso_3166_2":"IM",
       "iso_3166_3":"IMN",
-      "name":"Isle of Man",
+      "name":"Man Adas\u0131",
       "region-code":"150",
       "sub-region-code":"154",
       "eea":false,
       "calling_code":"44"
    },
-   "834":{
+   "834":{  
       "capital":"Dodoma (TZ1)",
       "citizenship":"Tanzanian",
       "country-code":"834",
@@ -4488,16 +4260,15 @@
       "full_name":"United Republic of Tanzania",
       "iso_3166_2":"TZ",
       "iso_3166_3":"TZA",
-      "name":"Tanzania, United Republic of",
+      "name":"Tanzanya Birle\u015fik Cumhuriyeti",
       "region-code":"002",
       "sub-region-code":"014",
       "eea":false,
       "calling_code":"255",
       "currency_symbol":"TZS",
-      "currency_decimals":"2",
       "flag":"TZ.png"
    },
-   "840":{
+   "840":{  
       "capital":"Washington DC",
       "citizenship":"American",
       "country-code":"840",
@@ -4507,16 +4278,15 @@
       "full_name":"United States of America",
       "iso_3166_2":"US",
       "iso_3166_3":"USA",
-      "name":"United States",
+      "name":"Amerika Birle\u015fik Devletleri",
       "region-code":"019",
       "sub-region-code":"021",
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"$",
-      "currency_decimals":"2",
       "flag":"US.png"
    },
-   "850":{
+   "850":{  
       "capital":"Charlotte Amalie",
       "citizenship":"US Virgin Islander",
       "country-code":"850",
@@ -4526,16 +4296,15 @@
       "full_name":"United States Virgin Islands",
       "iso_3166_2":"VI",
       "iso_3166_3":"VIR",
-      "name":"Virgin Islands, U.S.",
+      "name":"Virgin Adalar\u0131, ABD",
       "region-code":"019",
       "sub-region-code":"029",
       "eea":false,
       "calling_code":"1",
       "currency_symbol":"$",
-      "currency_decimals":"2",
       "flag":"VI.png"
    },
-   "854":{
+   "854":{  
       "capital":"Ouagadougou",
       "citizenship":"Burkinabe",
       "country-code":"854",
@@ -4551,10 +4320,9 @@
       "eea":false,
       "calling_code":"226",
       "currency_symbol":"XOF",
-      "currency_decimals":"0",
       "flag":"BF.png"
    },
-   "858":{
+   "858":{  
       "capital":"Montevideo",
       "citizenship":"Uruguayan",
       "country-code":"858",
@@ -4570,10 +4338,9 @@
       "eea":false,
       "calling_code":"598",
       "currency_symbol":"$U",
-      "currency_decimals":"0",
       "flag":"UY.png"
    },
-   "860":{
+   "860":{  
       "capital":"Tashkent",
       "citizenship":"Uzbek",
       "country-code":"860",
@@ -4583,16 +4350,15 @@
       "full_name":"Republic of Uzbekistan",
       "iso_3166_2":"UZ",
       "iso_3166_3":"UZB",
-      "name":"Uzbekistan",
+      "name":"\u00d6zbekistan",
       "region-code":"142",
       "sub-region-code":"143",
       "eea":false,
       "calling_code":"998",
       "currency_symbol":"\u043b\u0432",
-      "currency_decimals":"2",
       "flag":"UZ.png"
    },
-   "862":{
+   "862":{  
       "capital":"Caracas",
       "citizenship":"Venezuelan",
       "country-code":"862",
@@ -4602,16 +4368,15 @@
       "full_name":"Bolivarian Republic of Venezuela",
       "iso_3166_2":"VE",
       "iso_3166_3":"VEN",
-      "name":"Venezuela, Bolivarian Republic of",
+      "name":"Venezuela, Bolivar Cumhuriyeti",
       "region-code":"019",
       "sub-region-code":"005",
       "eea":false,
       "calling_code":"58",
       "currency_symbol":"Bs",
-      "currency_decimals":"2",
       "flag":"VE.png"
    },
-   "876":{
+   "876":{  
       "capital":"Mata-Utu",
       "citizenship":"Wallisian; Futunan; Wallis and Futuna Islander",
       "country-code":"876",
@@ -4621,16 +4386,15 @@
       "full_name":"Wallis and Futuna",
       "iso_3166_2":"WF",
       "iso_3166_3":"WLF",
-      "name":"Wallis and Futuna",
+      "name":"Wallis ve Futuna",
       "region-code":"009",
       "sub-region-code":"061",
       "eea":false,
       "calling_code":"681",
       "currency_symbol":"XPF",
-      "currency_decimals":"0",
       "flag":"WF.png"
    },
-   "882":{
+   "882":{  
       "capital":"Apia",
       "citizenship":"Samoan",
       "country-code":"882",
@@ -4646,10 +4410,9 @@
       "eea":false,
       "calling_code":"685",
       "currency_symbol":"WS$",
-      "currency_decimals":"2",
       "flag":"WS.png"
    },
-   "887":{
+   "887":{  
       "capital":"San\u2019a",
       "citizenship":"Yemenite",
       "country-code":"887",
@@ -4665,10 +4428,9 @@
       "eea":false,
       "calling_code":"967",
       "currency_symbol":"\ufdfc",
-      "currency_decimals":"2",
       "flag":"YE.png"
    },
-   "894":{
+   "894":{  
       "capital":"Lusaka",
       "citizenship":"Zambian",
       "country-code":"894",
@@ -4678,13 +4440,12 @@
       "full_name":"Republic of Zambia",
       "iso_3166_2":"ZM",
       "iso_3166_3":"ZMB",
-      "name":"Zambia",
+      "name":"Zambiya",
       "region-code":"002",
       "sub-region-code":"014",
       "eea":false,
       "calling_code":"260",
       "currency_symbol":"ZK",
-      "currency_decimals":"2",
       "flag":"ZM.png"
    }
 }
